@@ -1,42 +1,3581 @@
 #EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-VERSION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:0 ,--- [COLOR orange]UPDATED 17-10-2015[/COLOR] ---
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:-1 group-title="Sport",-----[COLOR red]Temporary channels[/COLOR] ------
+#rtmpe://89.248.170.199:443/
+
+
+#EXTINF:-1 group-title="Sport",-----[COLOR red]Sport Channels[/COLOR] ------
+rtmpe://89.248.170.199:443/
+
+
+
+
+#EXTINF:0, Eurosport 1 uk - [COLOR blue] google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
+#EXTINF:0, Eurosport 2 uk - [COLOR blue] google.com[/COLOR] 
+http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
+
+
+
+#EXTINF:0,Astro SuperSport 1 - [COLOR blue] google.com[/COLOR]
+http://185.63.252.176/live/antenasportucl1/playlist.m3u8
+
+
+#EXTINF:0,Bein SportN - [COLOR blue] google.com[/COLOR]
+http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
+
+
+
+
+#EXTINF:0, SkySport 1 - [COLOR blue] google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
+
+
+#EXTINF:-1, Sky Sport 2 - [COLOR blue] google.com[/COLOR]
+rtmp://185.53.90.27/live playpath=ss2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss2skys&vw=620&vh=490
+
+#EXTINF:-1, Sky Sport 2 - [COLOR blue] google.com[/COLOR]
+rtmp://185.53.90.27/live playpath=ss2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss2skys&vw=620&vh=490
+
+
+#EXTINF:0, SkySport2 - [COLOR blue] google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
+#EXTINF:0, SkySport 3 - [COLOR blue] google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
+#EXTINF:-1, Sky Sport 3 - [COLOR blue] google.com[/COLOR]
+rtmp://185.53.90.26/live playpath=ss3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss3skys&vw=620&vh=490
  
-#EXTINF:-1,FR : FRANCE O*
-http://62.210.162.88:80/live/FR97/121411022016/1800.ts
-#EXTINF:-1,FR : FRANCE 2*
-http://62.210.162.88:80/live/FR97/121411022016/1797.ts
-#EXTINF:-1,FR : FRANCE 3*
-http://62.210.162.88:80/live/FR97/121411022016/1794.ts
-#EXTINF:-1,FR : FRANCE 4*
-http://62.210.162.88:80/live/FR97/121411022016/1798.ts
-#EXTINF:-1,FR : FRANCE 5*
-http://62.210.162.88:80/live/FR97/121411022016/1799.ts
-#EXTINF:-1,FR : D8*
-http://62.210.162.88:80/live/FR97/121411022016/1795.ts
-#EXTINF:-1,FR : D17*
-http://62.210.162.88:80/live/FR97/121411022016/1796.ts
-#EXTINF:-1,FR : W9*
-http://62.210.162.88:80/live/FR97/121411022016/1838.ts
-#EXTINF:-1,FR_NRJ12*
-http://62.210.162.88:80/live/FR97/121411022016/1320.ts
-#EXTINF:-1,FR_6TER*
-http://62.210.162.88:80/live/FR97/121411022016/1322.ts
-#EXTINF:-1,FR:CanalCinema
-http://62.210.162.88:80/live/FR97/121411022016/1299.ts
-#EXTINF:-1,FR:CanalFamily
-http://62.210.162.88:80/live/FR97/121411022016/1298.ts
-#EXTINF:-1,FR:PLANETE HD
-http://62.210.162.88:80/live/FR97/121411022016/1295.ts
-#EXTINF:-1,FR_RMC DECOUVERTE*
-http://62.210.162.88:80/live/FR97/121411022016/1327.ts
-#EXTINF:-1,FR_ARTE*
-http://62.210.162.88:80/live/FR97/121411022016/1325.ts
-#EXTINF:-1,FR_I TELE*
-http://62.210.162.88:80/live/FR97/121411022016/1326.ts
-#EXTINF:-1,FR_BFM TV*
-http://62.210.162.88:80/live/FR97/121411022016/1330.ts
-#EXTINF:-1,FR_BFM BUSINESS*
-http://62.210.162.88:80/live/FR97/121411022016/1331.ts
-#EXTINF:-1,FR_GULLI*
-http://62.210.162.88:80/live/FR97/121411022016/1328.ts
-#EXTINF:-1,FR:DESNEYCINEMAHD
-http://62.210.162.88:80/live/FR97/121411022016/1293.ts
+
+
+#EXTINF:-1, Sky Sport 3 - [COLOR blue] google.com[/COLOR]
+rtmp://80.82.65.162/live playpath=ss3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss3skys&vw=620&vh=490
+
+
+
+
+#EXTINF:0, SkySport 4 - [COLOR blue] google.com[/COLOR]
+rtmp://80.82.70.155/live playpath=ss4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss4skys&vw=620&vh=490
+
+
+
+
+#EXTINF:0, SkySport 4 - [COLOR blue] google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
+#EXTINF:0, SkySport 5 - [COLOR blue] google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
+
+#EXTINF:0, BT Sport Europe - [COLOR blue] google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/bteulsh/playlist.m3u8
+
+#EXTINF:0, BT Sport 2 - [COLOR blue] google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/btsports2lsh/playlist.m3u8 
+
+
+
+
+#EXTINF:-1 group-title="Sport",Sports Tonight UK - [COLOR blue] sportstonightlive.com[/COLOR]
+rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf timeout=10
+
+
+
+
+#EXTINF:-1 group-title="Sport",MOTOR SPORT - [COLOR blue]google.com[/COLOR]
+http://motorsport.hopto.org:8080/
+
+
+#EXTINF:-1 group-title="Sport",Telekanal Futbol - [COLOR blue]google.com[/COLOR]
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport",Moldova Sport - [COLOR blue]google.com[/COLOR]
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Dubai Racing - [COLOR blue]google.com[/COLOR]
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8 
+
+#EXTINF:-1, Buraspor TV - [COLOR blue]google.com[/COLOR]
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+ 
+#EXTINF:-1,Arena - [COLOR blue]google.com[/COLOR]
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+ 
+#EXTINF:-1, Real Madrid HD - [COLOR blue]google.com[/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 group-title="SPORTS", SPORTS TV TURKEY - [COLOR blue]google.com[/COLOR]
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+ 
+ 
+#EXTINF:-1, Auto Moto TV Gaz (RU) - [COLOR blue]google.com[/COLOR]
+mms://100automoto.tv/100gaz
+ 
+#EXTINF:-1, PORSCHE CHANNEL - [COLOR blue]google.com[/COLOR]
+mms://100automoto.tv/channel_porsche
+ 
+#EXTINF:-1, AutoSport TV - [COLOR blue]google.com[/COLOR]
+mms://100automoto.tv/100livesport
+ 
+#EXTINF:-1, BMW CHANNEL Italia - [COLOR blue]google.com[/COLOR]
+mms://100automoto.tv/bmw
+ 
+#EXTINF:0, Mercedes-Benz Channel - [COLOR blue]google.com[/COLOR]
+mms://100automoto.tv/channel_mercedes
+ 
+#EXTINF:0, Auto Italia Channel - [COLOR blue]google.com[/COLOR]
+mms://100automoto.tv/channel_italy
+ 
+#EXTINF:0, Cars & Sports - [COLOR blue]google.com[/COLOR]
+mms://100automoto.tv/100livesport
+ 
+#EXTINF:-1 tvg-logo="BTN.png" group-title="All Sports", Big Ten Network HD - [COLOR blue]google.com[/COLOR]
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+ 
+#EXTINF:-1,SPORTTV 1 Portugal - [COLOR blue]google.com[/COLOR]
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1,SPORTTV 2 Portugal - [COLOR blue]google.com[/COLOR]
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
+ 
+#EXTINF:0, Rai Sport 2 - [COLOR blue]google.com[/COLOR]
+#mmsh://212.162.68.163:80/raisport2
+
+
+#EXTINF:0, Rai Sport 1 - [COLOR blue]google.com[/COLOR]
+#mmsh://212.162.68.163:80/raisport+
+ 
+ 
+#EXTINF:-1, TRT SPOR SD - [COLOR blue]google.com[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+ 
+#EXTINF:0, TRT SPOR HD - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+ 
+#EXTINF:0, KAZSPORT - [COLOR blue]google.com[/COLOR]
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+ 
+#EXTINF:-1,Sports Max - [COLOR blue]google.com[/COLOR]
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+ 
+#EXTINF:-1,Sports Night HD - [COLOR blue]google.com[/COLOR]
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+ 
+ 
+#EXTINF:-1,IRAK Iraqiya Sport - [COLOR blue]google.com[/COLOR]
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="cdN.png", CDN Sports esp - [COLOR blue]google.com[/COLOR]
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+ 
+#EXTINF:-1, Sport 1 Russia - [COLOR blue]google.com[/COLOR]
+http://hls.cn.ru/streaming/sport1/16/tvrec/playlist.m3u8
+ 
+#EXTINF:-1,ENG-MMA BAY TV - [COLOR blue]google.com[/COLOR]
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+ 
+#EXTINF:-1,Sports Night - [COLOR blue]google.com[/COLOR]
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+ 
+#EXTINF:-1,TURKMEN SPORT - [COLOR blue]google.com[/COLOR]
+rtmp://217.174.227.20/webtv/ch004_sd
+ 
+#EXTINF:-1, NBC GOLF SD - [COLOR blue]google.com[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+#EXTINF:-1, NBC GOLF 720p - [COLOR blue]google.com[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+#EXTINF:-1, NBC GOLF 1080p - [COLOR blue]google.com[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+#EXTINF:-1, NBC Sports Network 1080P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+#EXTINF:-1, SPORTSTV - [COLOR blue]google.com[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
+ 
+#EXTINF:-1, TileSport TV - [COLOR blue]google.com[/COLOR]
+rtmp://tv1.streampulse.eu/tilesport/movie1
+
+#EXTINF:-1 group-title="Sport",CORA 3 RUS - [COLOR blue] numericable.tv[/COLOR]
+
+#http://193.232.151.135/hls-live/livepkgr/_1073_/1073/1073-70.m3u8
+
+#EXTINF:-1 group-title="Sport",CORA 2 RUS - [COLOR blue] numericable.tv[/COLOR]
+
+#http://193.232.151.135/hls-live/livepkgr/_1031_/1031/1031-70.m3u8
+
+#EXTINF:-1 group-title="Sport",CORA 1 RUS - [COLOR blue] numericable.tv[/COLOR]
+
+#http://193.232.151.135/hls-live/livepkgr/_1025_/1025/1025-70.m3u8
+
+
+#EXTINF:-1 group-title="Sport",Bahrain Sports - [COLOR blue] github.com  [/COLOR]
+#rtmp://alayam.netromedia.net/btv3/btv3 
+
+
+
+#EXTINF:-1 group-title="Sport",Antena 3 Sports - [COLOR blue] github.com[/COLOR]
+#http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 group-title="Sport",Antena 3 Sports 720 HD - [COLOR blue] github.com[/COLOR]
+#http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+
+#EXTINF:-1 group-title="Sport",Bahrain Sport  - [COLOR blue] github.com[/COLOR]
+#rtmp://alayam.netromedia.net/btv3/btv3  
+#EXTINF:-1 group-title="Sport",KTV Sport Extra - [COLOR blue] github.com[/COLOR]
+rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
+
+
+#EXTINF:-1 group-title="Sport",Drift 4 Ever - [COLOR blue] github.com[/COLOR]
+#http://46.249.213.93/iPhone/broadcast/drift4ever-tablet.3gp/drift4ever-tablet.3gp-mr647k.m3u8?trackingid=4551740000&os=desktop
+
+
+#EXTINF:-1 group-title="Sport",College Football PAC Arizona - [COLOR blue] google.com[/COLOR]
+#http://goo.gl/yy2Y0F
+
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 1HQ - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 1HD - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 2HQ - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 2HD - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 3HQ - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 3HD - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 4HQ - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 4HD - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 5HQ - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 5HD - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+
+
+#EXTINF:-1 group-title="Sport",SPORT TIME TV 6HD - [COLOR blue] google.com[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+
+
+
+
+#EXTINF:-1 group-title="Sport",BMW CHANNEL ItA?lia - [COLOR blue] google.com[/COLOR]
+mms://100automoto.tv/bmw
+
+#EXTINF:-1 group-title="Sport",Ntv - [COLOR blue]google.com[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
+
+
+#EXTINF:-1 group-title="Sport",ARENA SPORT - [COLOR blue]google.com[/COLOR]
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+
+#EXTINF:-1 group-title="Sport",TURKMEN SPORT - [COLOR blue]google.com[/COLOR]
+rtmp://217.174.227.20/webtv/ch004_sd
+
+
+#EXTINF:-1 group-title="Sport",TURK-NTV SPOR - [COLOR blue]google.com[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1 group-title="Sport",TURK-NTV SPOR - [COLOR blue]google.com[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+
+#EXTINF:-1 group-title="Sport",TURK-SPORTS TV - [COLOR blue]google.com[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
+
+
+#EXTINF:-1 group-title="Sport",Cnopt 1 - [COLOR blue]google.com[/COLOR]
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Sport",Football - [COLOR blue]google.com[/COLOR]
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+
+ 
+
+
+#EXTINF:-1, group-title="Sport",Sky SKYNEWS INT - [COLOR blue]google.com[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8 
+
+#EXTINF:-1, group-title="Sport",Rai Sport 1 - [COLOR blue]google.com[/COLOR]
+mmsh://212.162.68.163:80/raisport+
+#EXTINF:-1, group-title="Sport",Rai Sport 2 - [COLOR blue]google.com[/COLOR]
+#mmsh://212.162.68.163:80/raisport2
+
+
+
+
+#EXTINF:-1,AD SPORTS1 - [COLOR blue]google.com[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
+#EXTINF:-1,D24  - [COLOR blue]google.com[/COLOR]
+rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
+#EXTINF:-1,Ghana Diaspora Ch  - [COLOR blue]google.com[/COLOR]
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaDiaspora/gd_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+
+#EXTINF:-1,Sport TV - [COLOR blue]google.com[/COLOR]
+rtmp://stream2.joinvisions.net/jorlive/s1
+#EXTINF:-1,ARENA SPORT (IND) - [COLOR blue]google.com[/COLOR]
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+#EXTINF:-1,ARENA SPORT 1 HR - [COLOR blue]google.com[/COLOR]
+http://server9.balkantvmedia.com:8080/ARENA_SPORT_1HR?u=user329:p=jAiMJONu
+#EXTINF:-1,ARENA SPORT 1 SR - [COLOR blue]google.com[/COLOR]
+http://server4.balkantvmedia.com:8080/ARENA_SPORT_1SR?u=user329:p=jAiMJONu
+
+#EXTINF:-1,ArenaSport 2 - [COLOR blue]google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/arhd2lsh/playlist.m3u8
+#EXTINF:-1,ArenaSport 4 - [COLOR blue]google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/arhd4lsh/playlist.m3u8
+#EXTINF:-1,Astro SuperSport 2 - [COLOR blue]google.com[/COLOR]
+http://185.63.252.176/live/antenasportucl2/playlist.m3u8
+
+#EXTINF:-1,BULGAR-BULSAT_Eurosport 2 BG - [COLOR blue]google.com[/COLOR]
+http://lag1.tv-mobile.org/prgt.m3u8
+#EXTINF:-1,BULGAR-BULSAT_Sport Klub 1 HD - [COLOR blue]google.com[/COLOR]
+http://77.76.140.251/prgr.m3u8
+#EXTINF:-1,BULGAR-BULSAT_Sport Klub 3 HD - [COLOR blue]google.com[/COLOR]
+http://77.76.140.251/prgt.m3u8
+
+#EXTINF:-1,Canal+ Sport - [COLOR blue]google.com[/COLOR]
+rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:-1,CANLI YAYINLAR - [COLOR blue]google.com[/COLOR]
+http://92.222.205.40:8080/superlig
+#EXTINF:-1,Cars & Sports mms - [COLOR blue]google.com[/COLOR]
+mms://100automoto.tv/100livesport
+
+#EXTINF:-1,CHANNEL 9 AUSTRALIA - [COLOR blue]google.com[/COLOR]
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1,Dubai Racing (Horses) - [COLOR blue]google.com[/COLOR]
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,DUBAI SPORTS - [COLOR blue]google.com[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
+
+#EXTINF:-1,ESPN - [COLOR blue]google.com[/COLOR]
+http://199.180.114.174:8000/espn.m3u8
+
+#EXTINF:-1,ESPN 3 - [COLOR blue]google.com[/COLOR]
+http://199.180.114.174:8000/espn3.m3u8
+#EXTINF:-1,ESPN UK - [COLOR blue]google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
+#EXTINF:-1,Eurosport 1 ENG- [COLOR blue]google.com[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,Eurosport 1 uk - [COLOR blue]google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
+#EXTINF:-1,Eurosport 2 uk - [COLOR blue]google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
+#EXTINF:-1,Extreme Impacts - [COLOR blue]google.com[/COLOR]
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+#EXTINF:-1,F+ Russia - [COLOR blue]google.com[/COLOR]
+http://77.76.140.251/prge.m3u8
+#EXTINF:-1,FOX SPORTS - [COLOR blue]google.com[/COLOR]
+http://199.180.114.174:8000/foxs.m3u8?Token
+#EXTINF:-1,FOX SPORTS 2 - [COLOR blue]google.com[/COLOR]
+http://199.180.114.174:8000/foxs2.m3u8?Token
+#EXTINF:-1,Fox Sports 506 HD - [COLOR blue]google.com[/COLOR] 
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,IRAK Iraqiya Sport - [COLOR blue]google.com[/COLOR]
+http://212.7.205.5:1935/sport/live/playlist.m3u8
+#EXTINF:-1,Iraq Sport SD - [COLOR blue]google.com[/COLOR]
+http://212.7.205.5:1935/sport/live/chunklist_w156395309.m3u8
+#EXTINF:-1,M4 Sport - [COLOR blue]google.com[/COLOR]
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
+#EXTINF:-1,MBC PROSPORT1 - [COLOR blue]google.com[/COLOR]
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC PROSPORT2 - [COLOR blue]google.com[/COLOR] 
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC SPORT HD 1 - [COLOR blue]google.com[/COLOR]
+http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8
+#EXTINF:-1,MBC SPORT HD 3 - [COLOR blue]google.com[/COLOR]
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8
+
+
+#EXTINF:-1,MOLDOVA SPORT HD - [COLOR blue]google.com[/COLOR]
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1,Motorsport 7 Channel Australia - [COLOR blue]google.com[/COLOR]
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,NFL Network HD - [COLOR blue]google.com[/COLOR]
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+
+#EXTINF:-1,PORSCHE CHANNELmms - [COLOR blue]google.com[/COLOR]
+mms://100automoto.tv/channel_porsche
+#EXTINF:-1,PTV Sports SD - [COLOR blue]google.com[/COLOR] 
+http://109.123.70.72:1935/live/ptvsports/samitv.m3u8
+
+#EXTINF:-1,Real Madrid TV - [COLOR blue]google.com[/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8
+#EXTINF:-1,RETE SPORT 8 (ITA) - [COLOR blue]google.com[/COLOR] 
+http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
+#EXTINF:-1,RUS auto_plus - [COLOR blue]google.com[/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/auto_plus/tvrec/playlist.m3u8
+#EXTINF:-1,RUS eurosport2 - [COLOR blue]google.com[/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+#EXTINF:-1,RUS futbol - [COLOR blue]google.com[/COLOR]
+http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1,RUS ntvsport - [COLOR blue]google.com[/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+#EXTINF:-1,SEVILLA FC SPAIN - [COLOR blue]google.com[/COLOR] 
+http://gstudio_hls04-lh.akamaihd.net/i/hls04stream001_0@348222/index_700_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,SILK SPORT 3 - [COLOR blue]google.com[/COLOR]
+http://188.93.94.133/silk_sport/index.m3u8
+#EXTINF:-1,SKY SPORTS 1 - [COLOR blue]google.com[/COLOR]
+http://5.196.14.179/sipragezabava.com/sky1.m3u8
+#EXTINF:-1,SKY SPORTS 2 - [COLOR blue]google.com[/COLOR]
+http://5.196.14.179/sipragezabava.com/sky2.m3u8
+#EXTINF:-1,SKY SPORTS 3 - [COLOR blue]google.com[/COLOR]
+http://5.196.14.179/sipragezabava.com/sky3.m3u8
+#EXTINF:-1,SKY SPORTS 4 - [COLOR blue]google.com[/COLOR]
+http://5.196.14.179/sipragezabava.com/sky4.m3u8
+#EXTINF:-1,SKY SPORTS 5 - [COLOR blue]google.com[/COLOR] 
+http://5.196.14.179/sipragezabava.com/sky5.m3u8
+#EXTINF:-1,SkySport 1 - [COLOR blue]google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
+#EXTINF:-1,SkySport 3 - [COLOR blue]google.com[/COLOR] 
+http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
+#EXTINF:-1,SkySport 4 - [COLOR blue]google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
+#EXTINF:-1,SkySport 5 - [COLOR blue]google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
+#EXTINF:-1,SkySport F1 - [COLOR blue]google.com[/COLOR]
+http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
+#EXTINF:-1,Slovak Sport 1 - [COLOR blue]google.com[/COLOR]
+rtmp://195.168.51.178/live/ss1HD
+#EXTINF:-1,Slovak Sport 2 - [COLOR blue]google.com[/COLOR]
+rtmp://195.168.51.178/live/ss2hd
+#EXTINF:-1,Sport 1 (UCR) - [COLOR blue]google.com[/COLOR]
+http://193.176.251.228:8000/Sport1
+#EXTINF:-1,Sport 2 (UCR) - [COLOR blue]google.com[/COLOR]
+http://193.176.251.228:8000/Sport2
+#EXTINF:-1,Sport Klub 1 - [COLOR blue]google.com[/COLOR]
+http://77.76.140.251/prgr.m3u8
+#EXTINF:-1,Sport Klub 2 - [COLOR blue]google.com[/COLOR]
+http://77.76.140.251/prgs.m3u8
+#EXTINF:-1,Sport Klub 3 - [COLOR blue]google.com[/COLOR]
+http://77.76.140.251/prgt.m3u8
+
+#EXTINF:-1,Sports Max - [COLOR blue]google.com[/COLOR]
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+#EXTINF:-1,Sports Night HD - [COLOR blue]google.com[/COLOR]
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+#EXTINF:-1,Sports Tonight UK - [COLOR blue]google.com[/COLOR]
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001
+#EXTINF:-1,SPORTS TV TURKEY - [COLOR blue]google.com[/COLOR]
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,SPORTSTV - [COLOR blue]google.com[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
+#EXTINF:-1,SUPER SPORT HD 1 - [COLOR blue]google.com[/COLOR]
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,SUPER SPORT NEWS - [COLOR blue]google.com[/COLOR]
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,Telekanal Futbol - [COLOR blue]google.com[/COLOR]
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1,TERRA ESPORTES Brasil - [COLOR blue]google.com[/COLOR]
+http://wowza1.videos.movile.com:1935/live/esportes_1.smil/stream.m3u8
+#EXTINF:-1,TileSport TV - [COLOR blue]google.com[/COLOR]
+rtmp://tv1.streampulse.eu/tilesport/movie1
+#EXTINF:-1,TRT 1 HD Turkey - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,TRT SPOR SD - [COLOR blue]google.com[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1,TAœRK-A SPOR =- [COLOR blue]google.com[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
+#EXTINF:-1,Turki_Kazakistan KAZSPORT - [COLOR blue]google.com[/COLOR]
+http://vs8.cdn.ott.otautv.kz:80/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:-1,Turki_SPORT TV - [COLOR blue]google.com[/COLOR]
+http://tv.online.tm//hls/ch004.m3u8
+#EXTINF:-1,Turki_TA?rkmenistan TURKMEN - [COLOR blue]google.com[/COLOR]
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1,Turki-TA?rkmen TA?rkmen Sport- [COLOR blue]google.com[/COLOR]
+http://tv.online.tm/hls/ch004_md/index.m3u8
+#EXTINF:-1,TAœRK-NTV SPOR - [COLOR blue]google.com[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1,TAœRK-SPORTS TV - [COLOR blue]google.com[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
+#EXTINF:-1,TURK-SPORTS - [COLOR blue]google.com[/COLOR]
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:-1,TURK-TRT SPOR - [COLOR blue]google.com[/COLOR]
+http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/HasBahCa.m3u8
+#EXTINF:-1,TURK-TRT SPOR - [COLOR blue]google.com[/COLOR]
+http://yayin5.canlitv.com:1935/live/trtspor/playlist.m3u8
+#EXTINF:-1,TVA Sport CANADA - [COLOR blue]google.com[/COLOR]
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,YAS SPORTS - [COLOR blue]google.com[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
+#EXTINF:-1,YUNAN-GREEK_TILESPORT - [COLOR blue]google.com[/COLOR]
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+
+#EXTINF:-1 group-title="Documentaries",--[COLOR red]Documentaries Channels[/COLOR]-- 
+rtmpe://89.248.170.199:443/
+
+
+
+
+#EXTINF:0,TLC (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.1.21:1234
+#EXTINF:0,Travel Channel - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.13:1234
+
+#EXTINF:0,Fishing And Hunting  - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.1.15:1234
+
+
+
+
+
+
+#EXTINF:0,24 kitchen  - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.17:1234
+
+
+#EXTINF:0,Discovery  - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.1.20:1234
+
+#EXTINF:0,Viasat explorer - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.16:1234
+#EXTINF:0,Viasat History (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.17:1234
+#EXTINF:0,Viasat Nature (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.18:1234
+
+
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Documentaries", World Fashion - [COLOR blue] google.com[/COLOR]
+#http://46.249.213.93/iPhone/broadcast/worldfashionchannel-tablet.3gp/worldfashionchannel-tablet.3gp-mr648k.m3u8?trackingid=3791770000&os=desktop
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="Documentaries", Travel Channel - [COLOR blue] google.com[/COLOR]
+#http://202.75.23.35/live/ch41/03.m3u8?b?b*t$world ras
+
+
+#EXTINF:0,NatGeo WILD (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.45:5000
+#EXTINF:0,Nat Geo (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.31:1234
+#EXTINF:0,Animal Planet (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.3.7:1234 
+
+
+
+
+
+#EXTINF:-1 group-title="Animal",AQUARIUM - [COLOR blue]google.com [/COLOR]
+
+rtmp://80.93.53.88:1935/live/channel_3
+
+
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="Baby TV" group-title="Cartoon",----- [COLOR red]Cartoon channels[/COLOR]  -----
+#rtmpe://89.248.170.199:443/
+
+
+
+
+
+
+#EXTINF:-1 group-title="news",----- [COLOR red]News Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1 group-title="news",ABC News  - [COLOR blue]google.com [/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+
+
+#EXTINF:-1 group-title="news",i24 - [COLOR blue]google.com[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+
+#EXTINF:-1 group-title="news",Bloomberg - [COLOR blue]google.com[/COLOR] 
+http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I/master.m3u8?geo_country=US
+
+
+ 
+#EXTINF:-1 tvg-logo="ABC.png" group-title="News",  ABC News - [COLOR blue]google.com[/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-logo="ABC.png" group-title="News",  ABC News HD - [COLOR blue]google.com[/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="CCTV news.png" group-title="News", CCTV news - [COLOR blue]google.com[/COLOR]
+http://77.36.61.45:8010/CCTVNews.m3u8
+#EXTINF:-1 tvg-logo="FOX 59 News.png" group-title="News", FOX 59 News - [COLOR blue]google.com[/COLOR]
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 tvg-logo="i24 News.png" group-title="News", i24 News (English) - [COLOR blue]google.com[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 tvg-logo="CNN.png" group-title="News", CNN sd - [COLOR blue]google.com[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="News", BBC World News - [COLOR blue]google.com[/COLOR]
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="News", i24 ISRAEL - [COLOR blue]google.com[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="News", SKY NEWS - [COLOR blue]google.com[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+ 
+
+
+
+#EXTINF:-1 group-title="Music",----- [COLOR red]Music Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1 tvg-id="Party TV" tvg-logo="Party TV" group-title="Music TV",kING Tv - [COLOR blue]github.com[/COLOR]
+rtmp://91.82.85.16:1935/relay15 playpath=nettv03_channel_1 swfUrl=http://video72.onstreaming.de/itplayer/player.swf live=1 pageUrl=http://video72.onstreaming.de/itplayer/kingtv_hd_live_inc.php 
+
+
+
+#EXTINF:-1 tvg-id="Party TV" tvg-logo="Party TV" group-title="Music TV",VEVO 1 HD - [COLOR blue]level3.net[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Party TV" tvg-logo="Party TV" group-title="Music TV",VEVO 2 HD - [COLOR blue]level3.net[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Party TV" tvg-logo="Party TV" group-title="Music TV",VEVO 3 HD - [COLOR blue]level3.net[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", Clubland - [COLOR blue]google.com[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", MTV Hits - [COLOR blue]google.com[/COLOR]
+#http://202.75.23.35:1400/live/ch42/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="PickTv.png" group-title="Music TV", ROUGE TV - [COLOR blue]google.com[/COLOR]
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV", AKA - source A - [COLOR blue]google.com[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8#?b?b*t$
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Music TV", AKA - source B - [COLOR blue]google.com[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+
+
+
+#EXTINF:-1 group-title="Movie Channels", ----- [COLOR red]Movie Channels[/COLOR] ----- 
+#rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:-1 group-title="UK", ----- [COLOR red]UK Channels[/COLOR] ----- 
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:-1 tvg-logo="BBC1.png" group-title="UK", London Live - [COLOR blue]google.com[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
+
+
+
+#EXTINF:-1 group-title="UK",BBC - [COLOR blue]google.com[/COLOR]
+#rtmp://31.220.0.195:80/live playpath=bb1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/
+
+
+#EXTINF:-1 group-title="UK",ITV - [COLOR blue]google.com[/COLOR]
+#rtmp://31.220.0.195:80/live playpath=bb1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/
+
+
+#EXTINF:-1 group-title="UK",BBC 1 - [COLOR blue]google.com[/COLOR]
+#http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="holland",-----[COLOR red]HOLLAND Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1 group-title="holland",Omroep ZeelandTV - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp
+#EXTINF:-1 group-title="holland",RTLZ - [COLOR blue]iptvlive.org[/COLOR]
+#mmsh://rtlztv.rtl.nl/rtlzbroad
+
+#EXTINF:-1 group-title="Lebanon" ,----- [COLOR red]Lebanon Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1 group-title="Lebanon" ,NBN (Lebanon) - [COLOR blue]google.com[/COLOR]
+rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf pageUrl=http://www.nbn.com.lb/live/ live=1 timeout=15
+#EXTINF:-1 group-title="Lebanon" ,NBN - [COLOR blue]google.com[/COLOR]
+rtmp://nbn.mangomolo.com/nbn/_definst_/mpegts.stream
+
+#EXTINF:-1 group-title="Lebanon" ,NBN - [COLOR blue]itworkscdn.net[/COLOR]
+rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf pageUrl=http://www.nbn.com.lb/live/ live=1 timeout=15
+
+
+#EXTINF:-1 group-title="Lebanon" ,Charity Tv - [COLOR blue]google.com[/COLOR]
+http://livestreaming.ositcom.net:1935/tvcharity/tvCharityStream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Lebanon" ,Al Jadeed - [COLOR blue]google.com[/COLOR]
+rtsp://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p 
+
+
+#EXTINF:-1 group-title="Lebanon" ,Future Tv - [COLOR blue]google.com[/COLOR]
+rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
+
+#EXTINF:-1 group-title="Lebanon" ,Mtv - [COLOR blue]google.com[/COLOR]
+rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p
+
+
+#EXTINF:-1 group-title="Lebanon" ,----- [COLOR red]Pakistan Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1,iFILM - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://mtv.fms-01.visionip.tv/live/ playpath=mtv-ifilm-ifilm-live-16x9-SDq swfUrl=http://www.ifilmtv.com/player/_player.swf live=1 pageUrl=http://www.ifilmtv.com/english/Live/ --live
+#EXTINF:-1,islam_tv - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://wowza04.sharp-stream.com/islamtv playpath=islamtv swfUrl=http://player.sharp-stream.com/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/islam_tv.aspx
+#EXTINF:-1,islam_tv - [COLOR blue]iptvlive.org[/COLOR]
+#http://wowza05.sharp-stream.com/islamtv/islamtv/HasBahCa.m3u8
+#EXTINF:-1,islam_tv - [COLOR blue]iptvlive.org[/COLOR]
+#http://wowza04.sharp-stream.com/islamtv/islamtv/HasBahCa.m3u8
+#EXTINF:-1,islam_tv - [COLOR blue]iptvlive.org[/COLOR]
+#rtmp://wowza05.sharp-stream.com/islamtv playpath=islamtv swfUrl=http://player.sharp-stream.com/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/islam_tv?by_HasBahCa
+#EXTINF:-1,KTN_news - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/KTN_news.aspx
+#EXTINF:-1,KTN_news - [COLOR blue]iptvlive.org[/COLOR] 
+#http://38.96.148.99:1935/samaalive/samaalive/HasBahCa.m3u8
+#EXTINF:-1,KTN_news - [COLOR blue]iptvlive.org[/COLOR]
+#rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/KTN_news?by_HasBahCa
+
+#EXTINF:-1,PEACE TV - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_asia-live-25f-4x3-sdh_1 swfUrl=http://hamariweb.com/tvold/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/peace_tv.aspx
+#EXTINF:-1,peace_tv - [COLOR blue]iptvlive.org[/COLOR]
+#rtmp://peace.fms.visionip.tv/live playpath=b2b-peace_asia-live-25f-4x3-sdh_1 swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/peace_tv?by_HasBahCa
+#EXTINF:-1,PRESS TV - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=1 pageUrl=http://www.presstv.ir/live.html --live
+#EXTINF:-1,PTV NEWS - [COLOR blue]iptvlive.org[/COLOR]
+#rtmp://live.server4sale.com/live playpath=PTVnews swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=1 pageUrl=http://news.ptv.com.pk/livestreaming.asp
+
+#EXTINF:-1,ptv-news - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://live.server4sale.com/live/ playpath=PTVnews swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/ptv-news?by_HasBahCa
+#EXTINF:-1,Sama News - [COLOR blue]iptvlive.org[/COLOR]
+rtsp://38.96.148.99:1935/live/bb
+#EXTINF:-1,samaalive - [COLOR blue]iptvlive.org[/COLOR] 
+http://38.96.148.99:1935/samaalive//samaalive/HasBahCa.m3u8
+#EXTINF:-1,samaalive - [COLOR blue]iptvlive.org[/COLOR] 
+#rtmp://38.96.148.99:1935/samaalive/ playpath=samaalive swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/tv/samaalive?by_HasBahCa
+#EXTINF:-1,samatv - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/sama_tv.aspx
+
+
+#EXTINF:-1 group-title="Polish",-----[COLOR red]Polish Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1 group-title="Polish",Czworka Polskie Radio - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream85.polskieradio.pl/video/czworka.sdp
+
+
+#EXTINF:-1 group-title="Polish",Edusat - [COLOR blue]iptvlive.org[/COLOR]
+#rtmp://178.73.10.66:1935/live/mpegts.stream
+
+#EXTINF:-1 group-title="Polish",Eska Best Music - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_480p
+
+#EXTINF:-1 group-title="Polish",Eska Party - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+
+#EXTINF:-1 group-title="Polish",Eska Party HD - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:-1 group-title="Polish",Eska Rock - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+
+#EXTINF:-1 group-title="Polish",Eska Rock HD - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1 group-title="Polish",Eska TV - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream.smcloud.net/live2/eskatv/eskatv_360p
+
+#EXTINF:-1 group-title="Polish",Eska VOX TV - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream.smcloud.net/live2/vox/vox_480p
+
+#EXTINF:-1 group-title="Polish",Eska WAWA TV - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+
+#EXTINF:-1 group-title="Polish",Eska WAWA TV HD - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+
+#EXTINF:-1 group-title="Polish",Next Music - [COLOR blue]iptvlive.org[/COLOR]
+#rtmp://vod.wowza.astrosa.pl/rtplive/:music_540p.stream
+
+
+#EXTINF:-1 group-title="Polish",Polo TV - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://stream.smcloud.net/live/polotv swfUrl=http://polotv.pl/thrdparty/flowplayer/flowplayer.rtmp-3.1.4.swf pageUrl=http://polotv.pl/player
+
+
+#EXTINF:-1 group-title="Polish",TV Disco - [COLOR blue]iptvlive.org[/COLOR]
+rtmp://edge4.popler.tv:1935/publishlive/tvdisco live=1 swfUrl=swfUrl=http://www.popler.tv/live/tvdisco
+
+
+
+
+#EXTINF:-1 group-title="albanian" ,----- [COLOR red]Albanian Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:-1 group-title="albanian",Ballkan TV - [COLOR blue]google.com[/COLOR]
+
+rtmp://yayin.tvdunyasi.tv/live/balkanrtv
+ 
+
+
+#EXTINF:-1 group-title="swedish",-----[COLOR red]Swedish Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1 group-title="swedish",TV 12 - [COLOR blue]google.com[/COLOR]
+#http://tvhdslive-f.akamaihd.net/i/EDCSPORTHDS_1@108870/index_4_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 group-title="swedish",Lifestyle TV - [COLOR blue]google.com[/COLOR]
+rtmp://stream1.lifestyletv.se/live playpath=livestream3 swfUrl=http://lifestyletv.se/flvplayer/player/waPlayer.swf?VideoID=1&amp;Style=undefined&amp;PlaylistID=undefined&amp;cam=undefined live=true timeout=15 pageUrl=http://lifestyletv.se/ondemand_player.php?prgid=1
+
+
+
+#EXTINF:-1 group-title="swedish",Kanal 10 - [COLOR blue]google.com[/COLOR]
+rtmp://cdn-kanal10.crossnet.net/kanal10/ playpath=mpegts.stream swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.kanal10.se/webbtv
+
+
+
+
+#EXTINF:-1 group-title="Hungary" ,----- [COLOR red]Hungarian Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:-1 group-title="Hungary" ,DUNA TV - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/104
+
+#EXTINF:-1 group-title="Hungary" ,RTL 2 - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/1004
+#EXTINF:-1 group-title="Hungary" ,RTL+ - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/1005
+#EXTINF:-1 group-title="Hungary" ,DUCK TV - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/1007 
+
+#EXTINF:-1 group-title="Hungary" ,RTL Klub - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/101
+
+#EXTINF:-1 group-title="Hungary" , CM1 HD - [COLOR blue]google.com[/COLOR]
+
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Hungary" , CM2 HD - [COLOR blue]google.com[/COLOR]
+
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Hungary" , DUNA WORLD HD - [COLOR blue]google.com[/COLOR]
+
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Hungary" ,DUNA HD - [COLOR blue]google.com[/COLOR]
+
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Hungary" ,Fehervar TV - [COLOR blue]google.com[/COLOR]
+http://91.82.85.71:1935/liverelay/fehervartv.sdp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Hungary" ,Alfold TV - [COLOR blue]google.com[/COLOR]
+rtmp://217.113.62.243:1935/live/live 
+
+#EXTINF:-1 group-title="Hungary" ,Mako TV - [COLOR blue]google.com[/COLOR]
+mms://62.77.210.177
+
+
+
+
+#EXTINF:-1 group-title="Italian",----- [COLOR red]ITALIAN channels[/COLOR]  -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1 group-title="Italian",RAI 1 - [COLOR blue]google.com[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1 group-title="Italian",RAI 2 - [COLOR blue]google.com[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
+#EXTINF:-1 group-title="Italian",RAI 3 - [COLOR blue]google.com[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Italian",RAI 1 - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/023
+
+
+#EXTINF:-1 group-title="Italian",PRIMA TV - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/036
+
+
+
+#EXTINF:-1 group-title="Italian",VIASAT 3 - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/103
+
+#EXTINF:-1 group-title="Italian",Cielo - [COLOR blue]google.com[/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8?hdnea=st=1391525654~exp=1391525954~hmac=66a76ab45c152e235967751a58?00a45bc7418918ea2b336f47108464c98db43f
+
+#EXTINF:-1 group-title="Italian",Rai Premium - [COLOR blue]google.com[/COLOR]
+mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf
+
+#EXTINF:-1 group-title="Italian", Rai Scuola - [COLOR blue]google.com[/COLOR]
+mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf
+#EXTINF:-1 group-title="Italian",Rai Storia  - [COLOR blue]google.com[/COLOR]
+mmsh://212.162.68.163/rai_storia?MSWMExt.asf
+
+#EXTINF:-1 group-title="Italian",Rai Yoyo  - [COLOR blue]google.com[/COLOR]
+mmsh://212.162.68.162/rai_yoyo
+
+#EXTINF:-1 group-title="Italian",Rock One  - [COLOR blue]google.com[/COLOR]
+mmsh://mediatv2.topix.it/24RockOne66
+
+#EXTINF:-1 group-title="Italian",Roma uno - [COLOR blue]google.com[/COLOR]
+#rtmp://188.40.2.148:1935/romauno/live.sdp
+
+#EXTINF:-1 group-title="Italian",Quartarete - [COLOR blue]google.com[/COLOR]
+rtmp://wowza1.top-ix.org/quartaretetv/quartareteweb
+
+#EXTINF:-1 group-title="Italian",Rai Pre - [COLOR blue]google.com[/COLOR]
+mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf
+
+
+#EXTINF:-1 group-title="Italian",Rai Gulp TV - [COLOR blue]google.com[/COLOR]
+mmsh://212.162.68.163/Rai_gulp 
+
+
+#EXTINF:-1 group-title="india",------[COLOR red]India Channels[/COLOR]------
+rtmpe://89.248.170.199:443/
+
+
+
+
+#EXTINF:-1 group-title="india",Mera TV - [COLOR blue]google.com[/COLOR]
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8?sd=10&play-only=primary&rebase=on
+
+
+
+
+
+
+#EXTINF:-1 group-title="india",TNews - [COLOR blue]smartstream.in[/COLOR]
+rtmp://edge-ind.inapcdn.in:1935/berry playpath=vdevice3.stream_aac swfUrl=http://smartstream.in/primusplayer/primus-3.2.12.swf live=true timeout=15 pageUrl=http://smartstream.in/tnews
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="india", Smachar Plus - [COLOR blue]google.com[/COLOR]
+
+http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="india", News Nation - [COLOR blue]google.com[/COLOR]
+
+http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="india", DD News - [COLOR blue]google.com[/COLOR]
+
+http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
+
+#EXTINF:-1 group-title="india", Janta TV - [COLOR blue]google.com[/COLOR]
+
+http://jlive.itv.net.in:1935/jantatv/myStream.sdp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="America",----[COLOR red]USA Channels[/COLOR]---- 
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:-1 group-title="America",HSN - [COLOR blue]google.com[/COLOR]
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
+
+#EXTINF:-1 group-title="America",HSN 2 - [COLOR blue]google.com[/COLOR]
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+
+
+#EXTINF:-1 group-title="America",AMC - [COLOR blue]bigten247.cdnak.bigtenhd.neulion.com[/COLOR]
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+ 
+
+
+
+#EXTINF:-1 group-title="America",HSN TV - [COLOR blue]google.com[/COLOR]
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 
+
+#EXTINF:-1 group-title="America",JBLive.TV - [COLOR blue]google.com[/COLOR]
+rtsp://videocdn-us.geocdn.scaleengine.net/jblive/live/jblive.stream 
+
+#EXTINF:-1 group-title="America",JCTV - [COLOR blue]google.com[/COLOR]
+http://nstream.trinetsolutions.com/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx
+ 
+
+
+
+#EXTINF:-1 group-title="America",University of California TV - [COLOR blue]google.com[/COLOR]
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800 
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="America",City of Boston TV English - [COLOR blue]cityofboston.gov[/COLOR]
+rtmp://streaming.cityofboston.gov/live/cable
+
+
+#EXTINF:-1 group-title="America",HSN TV - [COLOR blue]miisolutions.net[/COLOR]
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
+
+
+
+#EXTINF:-1 group-title="France",----- [COLOR red]French Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1 group-title="France",Gong Base - [COLOR blue]google.com[/COLOR]
+rtsp://ec.playmedia.fr:1935/gong-base/live
+#EXTINF:-1 group-title="France",BFM TV - [COLOR blue]google.com[/COLOR]
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:-1 group-title="France",BFM Business - [COLOR blue]google.com[/COLOR]
+http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/04.m3u8
+#EXTINF:-1 group-title="France",Euronews - [COLOR blue]google.com[/COLOR]
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+#EXTINF:-1 group-title="France",i24news french - [COLOR blue]google.com[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1 group-title="France",France 24 - [COLOR blue]google.com[/COLOR] 
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="France",France 24 English - [COLOR blue]google.com[/COLOR]
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="France",iTele - [COLOR blue]google.com[/COLOR]
+http://178.250.208.141/16/play.m3u8
+#EXTINF:-1 group-title="France",TV5 Monde - [COLOR blue]google.com[/COLOR] 
+http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/master.m3u8|X-Forwarded-For=146.159.95.38
+#EXTINF:-1 group-title="France",CNBC - [COLOR blue]google.com[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:-1 group-title="France",D!CI Tv - [COLOR blue]google.com[/COLOR]
+rtmp://rtmp.infomaniak.ch/livecast playpath=dciwebcam swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.74.swf?sVersion=4%2E2%2E74&sDe–SS–ion=&sTitle=&bLd=0 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=dciwebcam&name=dici.fr_tv&player=2014
+#EXTINF:-1 group-title="France",Phorme TV - [COLOR blue]google.com[/COLOR]
+rtmp://ec.playmedia.fr/enorme-tv/ playpath=live swfUrl=http://enorme.tv/mediaelement-live/flashmediaelement.swf pageUrl=http://enorme.tv/
+#EXTINF:-1 group-title="France",Public Senat - [COLOR blue]google.com[/COLOR]
+http://178.250.208.141/13/play.m3u8
+#EXTINF:-1 group-title="France",RTS un - [COLOR blue]google.com[/COLOR]
+http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
+#EXTINF:-1 group-title="France",RTS Deux - [COLOR blue]google.com[/COLOR]
+http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
+#EXTINF:-1 group-title="France",RTS Info - [COLOR blue]google.com[/COLOR]
+http://srgssruni11ww-lh.akamaihd.net/i/enc11uni_ww@191459/master.m3u8
+#EXTINF:-1 group-title="France",CHAINES BELGE - [COLOR blue]google.com[/COLOR]
+http://hls1.maiyo-tv.com/index.m3u8?c=fr_f
+#EXTINF:-1 group-title="France",La une - [COLOR blue]google.com[/COLOR]
+http://rtmp.infomaniak.ch/livecast/laune/playlist.m3u8
+#EXTINF:-1 group-title="France",La Deux - [COLOR blue]google.com[/COLOR]
+http://rtmp.infomaniak.ch/livecast/ladeux/playlist.m3u8
+#EXTINF:-1 group-title="France",La Trois - [COLOR blue]google.com[/COLOR]
+http://rtmp.infomaniak.ch/livecast/latrois/playlist.m3u8
+#EXTINF:-1 group-title="France",RTL TVI - [COLOR blue]google.com[/COLOR]
+rtmp://cp132832.live.edgefcs.net/live//TVI_Inlet_8@21855 live=1
+#EXTINF:-1 group-title="France",RTL 1 - [COLOR blue]google.com[/COLOR]
+http://www.nasatv.eu:80/live?channelId=14&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1 group-title="France",RTL 2 - [COLOR blue]google.com[/COLOR]
+http://www.nasatv.eu:80/live?channelId=15&uid=5&deviceUser=amer&devicePass=amer
+
+
+
+#EXTINF:-1 group-title="France",chkg tdf cdn - [COLOR blue]google.com[/COLOR]
+http://chkg.tdf-cdn.com/5707/stream1.m3u8
+
+
+#EXTINF:-1 group-title="France",GRAND LILLE TV - [COLOR blue]google.com[/COLOR]
+rtmp://str81.creacast.com/grandlilletv/high
+
+#EXTINF:-1 group-title="France",Grand Lille TV - [COLOR blue]google.com[/COLOR]
+rtsp://str81.creacast.com/grandlilletv/high
+
+
+#EXTINF:-1 group-title="France",BFMTV - [COLOR blue]google.com[/COLOR]
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+
+
+#EXTINF:-1 group-title="France",CNA - [COLOR blue]google.com[/COLOR]
+rtmp://str81.creacast.com:80/cna/live.sdp
+
+#EXTINF:-1 group-title="France",Canal savoir - [COLOR blue]google.com[/COLOR]
+mms://stream2.canal.qc.ca/enOndes_haut_debit
+
+
+
+#EXTINF:-1 group-title="France",IL TV - [COLOR blue]google.com[/COLOR]
+rtmp://str81.creacast.com:80/iltv/high
+
+
+
+#EXTINF:-1 group-title="France",ROUGE TV CH - [COLOR blue]infomaniak.ch[/COLOR]
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="France",TVM Est Parisien - [COLOR blue]google.com[/COLOR]
+rtmp://rtmp.infomaniak.ch/livecast/cineplume
+
+#EXTINF:-1 group-title="France",Weo - [COLOR blue]google.com[/COLOR]
+rtmp://str82.creacast.com:80/weo/low
+
+#EXTINF:-1 group-title="France",Weo (hd)- [COLOR blue]google.com[/COLOR]
+rtmp://str81.creacast.com:80/weo/high
+
+#EXTINF:-1 group-title="France",RTC - [COLOR blue]webtvlive.eu[/COLOR]
+http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="France",KTO - [COLOR blue]ktotv.com[/COLOR]
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8
+
+#EXTINF:-1 group-title="France",LA CHAINE NORMANDIE - [COLOR blue]google.com[/COLOR]
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+
+#EXTINF:-1 group-title="France",la meteo - [COLOR blue]google.com[/COLOR]
+rtsp://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/horsgv/regions/siege/france2/meteo/meteo_GT.wmv
+
+#EXTINF:-1 group-title="France",PTC - [COLOR blue]rtc.be[/COLOR]
+http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
+
+
+#EXTINF:-1 group-title="France",M6 - [COLOR blue]google.com[/COLOR]
+rtsp://flash3.ipercast.net/m6boutique.com-live/mp4:m6boutiquecom.stream_high
+
+
+#EXTINF:-1 group-title="France",notele - [COLOR blue]google.com[/COLOR]
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+
+#EXTINF:-1 group-title="France",LA TELE - [COLOR blue]infomaniak.ch[/COLOR]
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="australia",----- [COLOR red]AUSTALIA Channels[/COLOR] -----
+#rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:-1 group-title="austria",----- [COLOR red]AUSTRIAN Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:-1 group-title="austria",Pik tv - [COLOR blue]google.com[/COLOR]
+rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv
+
+
+
+
+#EXTINF:-1 group-title="austria",Capital Tv - [COLOR blue]google.com[/COLOR]
+#rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital
+
+
+
+
+#EXTINF:-1 group-title="belgium",----- [COLOR red]BELGIUM Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:-1 group-title="belgium",PTC - [COLOR blue]google.com[/COLOR]
+http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
+
+#EXTINF:-1 group-title="belgium",RTC Tele Liege - [COLOR blue]google.com[/COLOR]
+http://media.webtvlive.eu/rtc/smil:live.smil/hasbahca.m3u8
+
+#EXTINF:-1 group-title="belgium",Zuglo TV - [COLOR blue]google.com[/COLOR]
+mms://stream01.gtk.hu/zuglotv_live
+
+#EXTINF:-1 group-title="belgium",Hema TV - [COLOR blue]google.com[/COLOR]
+mmsh://77.238.209.50:1234
+#EXTINF:-1 group-title="belgium",MUSCEL TV - [COLOR blue]google.com[/COLOR]
+mms://musceltvlive.muscel.ro:8080
+
+
+
+#EXTINF:-1 group-title="Bulgarian",----- [COLOR red]BULGARIAN Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:-1 group-title="Bulgarian",KANAL 0 BURGAS - [COLOR blue]google.com[/COLOR]
+mmsh://stream.kompasbg.com:8081
+
+
+
+
+
+#EXTINF:-1 group-title="Bulgarian",Channel Porsche BG - [COLOR blue]google.com[/COLOR]
+mms://83.222.161.217/channel_porsche
+
+
+
+
+
+
+#EXTINF:-1 group-title="Spanish",----- [COLOR red]SPAIN channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+
+
+#EXTINF:-1 group-title="Spanish",IB3 - [COLOR blue]ib3tv.com[/COLOR]
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+
+#EXTINF:-1 group-title="Spanish",TV3 - [COLOR blue]tv3.cat[/COLOR]
+#http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
+
+
+#EXTINF:-1 group-title="Spanish",Local Sevilla - [COLOR blue]audiovisuales.com[/COLOR]
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Romanian",----- [COLOR red]ROMANIAN CHANNELS[/COLOR]-----
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:-1 group-title="Romanian",Antena3 - [COLOR blue]google.com[/COLOR]
+rtmp://93.115.84.226:1935/live playpath=a3 live=1
+
+
+#EXTINF:-1 group-title="Romanian",Banat Tv - [COLOR blue]google.com[/COLOR]
+rtmp://81.18.66.155/live/banat-tv
+
+
+#EXTINF:-1 group-title="Romanian",Est Tv - [COLOR blue]google.com[/COLOR]
+rtmp://81.12.152.250/live/esttv.flv live=1
+
+
+#EXTINF:-1 group-title="Romanian",Inedit Tv - [COLOR blue]google.com[/COLOR]
+rtmp://5.2.136.179/live/CorneaTVLive live=1
+
+
+#EXTINF:-1 group-title="Romanian",Litoral Tv - [COLOR blue]google.com[/COLOR]
+rtmp://direct.multimedianet.ro:1935/live playpath=livestream live=1
+
+
+
+
+#EXTINF:-1 group-title="Romanian",National Tv - [COLOR blue]google.com[/COLOR]
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_national_tv.stream
+
+
+#EXTINF:-1 group-title="Romanian",Nova Tv - [COLOR blue]google.com[/COLOR]
+rtmp://86.123.165.135/live/myStream
+
+
+#EXTINF:-1 group-title="Romanian",Protv News - [COLOR blue]google.com[/COLOR]
+rtmp://live.protv.ro/news/ playpath=mp4:live1.mp4 swfUrl=http://d1.a4w.ro/customFlow/flowplayer-3.2.12.swf pageUrl=http://stirileprotv.ro/protvnews live=1
+
+
+#EXTINF:-1 group-title="Romanian",Pvtv - [COLOR blue]google.com[/COLOR]
+rtmp://stream.pvtv.ro/live/rtmp live=1
+
+
+#EXTINF:-1 group-title="Romanian",Radio Constanta - [COLOR blue]google.com[/COLOR]
+rtmp://89.238.207.219:1935/live/radio-constanta
+
+
+#EXTINF:-1 group-title="Romanian",Realitatea Tv - [COLOR blue]google.com[/COLOR]
+rtmp://realitateaonline.net:1935/live/mpegts.stream
+
+
+
+ 
+#EXTINF:-1 group-title="Romanian",West Tv - [COLOR blue]google.com[/COLOR]
+rtmp://86.106.82.47/westtv_live/livestream live=1 
+
+
+#EXTINF:-1 group-title="Romanian",DIGI FILM - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/030
+
+
+#EXTINF:-1 group-title="Romanian",DIGI LIFE - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/044
+#EXTINF:-1 group-title="Romanian",DIGI WORLD - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/045
+
+#EXTINF:-1 group-title="Romanian",Pro Tv - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/120
+
+#EXTINF:-1 group-title="Romanian",B1 - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/037
+
+#EXTINF:-1 group-title="Romanian",LOOK TV - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/1014
+#EXTINF:-1 group-title="Romanian",LOOK TV PLUS - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/1015
+
+#EXTINF:-1 group-title="Romanian",ZU TV - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/016
+
+#EXTINF:-1 group-title="Romanian",ANTENA STARS - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/018
+
+#EXTINF:-1 group-title="Romanian",PRO TV - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/009
+
+#EXTINF:-1 group-title="Romanian",ANTENA 1 - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/010
+
+#EXTINF:-1 group-title="Romanian",ANTENA 3 - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/012
+#EXTINF:-1 group-title="Romanian",ROMANIA TV - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/019
+
+#EXTINF:-1 group-title="Romanian",TVR 1 - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/001
+#EXTINF:-1 group-title="Romanian",TVR 2 - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/002
+#EXTINF:-1 group-title="Romanian",PAPRIKA TV - [COLOR blue]google.com[/COLOR]
+#rtmp://212.83.171.82:1935/live/003
+
+#EXTINF:-1 group-title="Romanian",1TV - [COLOR blue]ambra.ro[/COLOR]
+
+http://1tv.ambra.ro
+
+#EXTINF:-1 group-title="Romanian",Muscel Live - [COLOR blue]google.com[/COLOR]
+mms://musceltvlive.muscel.ro:8080
+
+#EXTINF:-1 group-title="Romanian",NOVA RO - [COLOR blue]google.com[/COLOR]
+rtmp://86.123.165.135:1935/live/myStream
+
+#EXTINF:-1 group-title="Romanian",Popular Tv - [COLOR blue]google.com[/COLOR]
+rtmp://extondemand.livestream.com/ondemand/trans/dv05/mogulus-user-files/chpopulartv/2010/04/02/511169da-0b8d-4997-b64b-3d57cf1a1291
+#EXTINF:-1 group-title="Romanian",PUBLIKA TV - [COLOR blue]google.com[/COLOR]
+rtmp://91.230.214.56/publika playpath=livepublika1 swfUrl=http://assets.publika.md/images/publikatv.swf live=1 pageUrl=http://publika.md/live
+
+#EXTINF:-1 group-title="Romanian",Salajeanul TV - [COLOR blue]google.com[/COLOR]
+http://94.52.213.67:8084/stream.flv
+#EXTINF:-1 group-title="Romanian",SOMES TV - [COLOR blue]google.com[/COLOR]
+http://s1.streamnet.ro:8047/stream.flv
+#EXTINF:-1 group-title="Romanian",Speranta TV - [COLOR blue]google.com[/COLOR]
+rtmp://amsix3.streamkit.tv:80/edge/_definst_/sperantatv_500
+#EXTINF:-1 group-title="Romanian",TELEM Iasi - [COLOR blue]google.com[/COLOR]
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv15/mogulus-user-files/chtelem_iasi/2012/01/25/57eab0e4-d143-4302-8e66-724599dcc738
+#EXTINF:-1 group-title="Romanian",TIMISOARA TV - [COLOR blue]google.com[/COLOR]
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chtimisoaratv/2013/02/12/52014d97-dce8-4564-aa9d-67ced121144e
+#EXTINF:-1 group-title="Romanian",TV M RO - [COLOR blue]google.com[/COLOR]
+http://tvm.ambra.ro
+#EXTINF:-1 group-title="Romanian",TVH - [COLOR blue]google.com[/COLOR]
+http://tvhflash.smcmobile.ro:8011/tvh20.flv
+#EXTINF:-1 group-title="Romanian",TVM Piatra Neamt - [COLOR blue]google.com[/COLOR]
+http://tvm.ambra.ro/
+#EXTINF:-1 group-title="Romanian",Kanal D - [COLOR blue]google.com[/COLOR]
+http://80.86.107.169:8100/stream.flv
+
+
+#EXTINF:-1 group-title="Romanian",6TV - [COLOR blue]google.com[/COLOR]
+http://89.149.7.178:8800/flv-audio-video/
+#EXTINF:-1 group-title="Romanian",Alfa Omega TV - [COLOR blue]google.com[/COLOR]
+rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
+
+#EXTINF:-1 group-title="Romanian",BANAT TV - [COLOR blue]google.com[/COLOR]
+rtmp://81.18.66.155/live/banat-tv
+
+
+#EXTINF:-1 group-title="Romanian",La Sexsta HD - [COLOR blue]antena3-aos1-apple-live.adaptive.level3.net[/COLOR]
+#http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="Romanian",Antena 3 HD - [COLOR blue]antena3-aos1-apple-live.adaptive.level3.net[/COLOR]
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
+
+
+#EXTINF:-1 group-title="Romanian",digi 24 Brasov - [COLOR blue]google.com[/COLOR]
+http://82.76.249.77/digi24edge/digi24brasovlive/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Romanian",Digi 24 Cluj-Napoca - [COLOR blue]google.com[/COLOR]
+http://82.76.249.77/digi24edge/digi24clujhq/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Romanian",Digi24 Constanta - [COLOR blue]google.com[/COLOR]
+http://82.76.249.77/digi24edge/digi24constantalivehls/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Romanian",Digi24 Craiova - [COLOR blue]google.com[/COLOR]
+http://82.76.249.77/digi24edge/digi24craiovalive/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Romanian",Digi 24  - [COLOR blue]google.com[/COLOR]
+http://82.76.249.77/digi24edge/digi24hdhqhls/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Romanian",Digi 24 Oradea - [COLOR blue]google.com[/COLOR]
+http://82.76.249.77/digi24edge/digi24oradealivehls/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Romanian",Digi 24 Timisoara - [COLOR blue]google.com[/COLOR]
+http://82.76.249.77/digi24edge/digi24timislivehls/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="German",----- [COLOR red]GERMAN Channels[/COLOR]-----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1 group-title="German",Family TV - [COLOR blue]google.com[/COLOR]
+rtmp://83.169.58.36/live/Stream3
+#EXTINF:-1 group-title="German",Baden TV - [COLOR blue]google.com[/COLOR]
+rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp
+#EXTINF:-1 group-title="German",BW Family TV - [COLOR blue]google.com[/COLOR]
+rtmp://live.bwfamily.tv:1935/rtplive/vlc.sdp
+#EXTINF:-1 group-title="German",Elbekanal Schonebeck - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live/elbe_high
+
+#EXTINF:-1 group-title="German",Filstalwelle - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.27/filstalwelle-live/livestream
+#EXTINF:-1 group-title="German",Halle TV - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live/tvhalle_high
+#EXTINF:-1 group-title="German",Juwelo TV - [COLOR blue]google.com[/COLOR]
+rtmp://85.214.107.68/juwelo_hd/live_DE1
+#EXTINF:-1 group-title="German", Light Channel TV Deutschland - [COLOR blue]google.com[/COLOR]
+rtsp://streamer1.streamhost.org:1935/salive/lctvde
+#EXTINF:-1 group-title="German",Dresden Fernsehen - [COLOR blue]google.com[/COLOR]
+rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+#EXTINF:-1 group-title="German",NOA4 Hamburg - [COLOR blue]google.com[/COLOR]
+mms://wt-wm1.wtnet.de/noa4hh-stream-mid?.wma
+
+#EXTINF:-1 group-title="German",Das Erste - [COLOR blue]akamaihd.net[/COLOR]
+
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="German",TV Aktuell - [COLOR blue]iptv-playoutcenter.de[/COLOR]
+
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/.m3u8
+
+#EXTINF:-1 group-title="German",N24 - [COLOR blue]level3.net[/COLOR]
+
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
+
+
+
+#EXTINF:-1 group-title="German",RBW - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live/rbw_high
+
+#EXTINF:-1 group-title="German",BadenTv - [COLOR blue]siebnich.info[/COLOR]
+rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp
+
+
+
+#EXTINF:0 group-title="German",STV1 - [COLOR blue]google.com[/COLOR]
+http://88.212.10.27:81/streams/stv1.m3u8
+#EXTINF:0 group-title="German",STV2 - [COLOR blue]google.com[/COLOR]
+http://88.212.10.27:81/streams/stv2.m3u8
+#EXTINF:0 group-title="German",WAU: - [COLOR blue]google.com[/COLOR]
+http://88.212.10.27:81/streams/wau.m3u8
+#EXTINF:0 group-title="German",JOJ - [COLOR blue]google.com[/COLOR]
+http://88.212.10.27:81/streams/joj.m3u8
+#EXTINF:0 group-title="German",PLUS - [COLOR blue]google.com[/COLOR]
+http://88.212.10.27:81/streams/jojplus.m3u8
+
+#EXTINF:0 group-title="German",TA3 - [COLOR blue]google.com[/COLOR]
+http://88.212.10.27:81/streams/ta3.m3u8
+#EXTINF:0 group-title="German", MUSIQ1 - [COLOR blue]google.com[/COLOR]
+http://88.212.10.27:81/streams/musiq1.m3u8
+#EXTINF:0 group-title="German",REGION - [COLOR blue]google.com[/COLOR]
+http://88.212.10.27:81/streams/region.m3u8
+
+
+#EXTINF:0 group-title="German",ALEX-BERLIN - [COLOR blue]google.com[/COLOR]
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:0 group-title="German",Augsburg TV - [COLOR blue]google.com[/COLOR]
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/ playpath=augsburgtv.stream_2 swfUrl=http://flowcenter2.flowworks.de/channelmanager/templates/default/template/jwplayer/jwplayer.flash.swf pageUrl=http://www.augsburg.tv/wdata/embed/livestream-augsburg_tv.html?autoplay=0
+
+#EXTINF:0 group-title="German",BADEN TV - [COLOR blue]google.com[/COLOR]
+rtmp://badentv-stream2.siebnich.info/rtplive/ playpath=btv.stream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/3639.html
+#EXTINF:0 group-title="German",BLK Regional TV - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ playpath=BLKonline_high swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/blk-regional-tv.html
+#EXTINF:0 group-title="German",BLKONLINETV - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live playpath=BLKonline_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/1_8.html
+#EXTINF:0 group-title="German",Center TV Dusseldorf - [COLOR blue]google.com[/COLOR]
+rtsp://80.246.121.90/ctv
+
+#EXTINF:0 group-title="German",DAF - [COLOR blue]google.com[/COLOR]
+rtmp://fms.daf.tmt.de/live/ playpath=dafstream100 swfUrl=http://partner.anleger-fernsehen.de/20/ext_content/jwplayer.flash.swf live=1 pageUrl=http://partner.anleger-fernsehen.de/
+
+#EXTINF:0 group-title="German",DAS NEUE TV - [COLOR blue]google.com[/COLOR]
+rtmp://83.169.58.36/live/ playpath=DasneueTV swfUrl=http://www.hd-livestream.de/Player6/jwplayer.flash.swf live=1 pageUrl=http://www.dasneue.tv/
+
+
+#EXTINF:0 group-title="German",Donau TV - [COLOR blue]google.com[/COLOR]
+rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 swfUrl=http://flowcenter2.flowworks.de/channelmanager/templates/default/template/jwplayer/jwplayer.flash.swf pageUrl=http://archiv.donautv.com/wdata/embed/donau-tv-livestream.html?autoplay=0
+#EXTINF:0 group-title="German",Dresden Fernsehen - [COLOR blue]google.com[/COLOR]
+rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+#EXTINF:0 group-title="German",Dresden Fernsehen - [COLOR blue]google.com[/COLOR]
+rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+#EXTINF:0 group-title="German",ELBEKANAL - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live playpath=elbe_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/1_7.html
+#EXTINF:0 group-title="German",EURONEWS - [COLOR blue]google.com[/COLOR]
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF:0 group-title="German",Family TV - [COLOR blue]google.com[/COLOR]
+rtmp://83.169.58.36/live/ playpath=Stream3 swfUrl=http://www.hd-livestream.de/Player6/jwplayer.flash.swf pageUrl=http://www.familytv.de/
+#EXTINF:0 group-title="German",FILSTALWELLE - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.27/filstalwelle-live/livestream
+
+#EXTINF:0 group-title="German",HALLE TV - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live playpath=tvhalle_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/1_1.html
+#EXTINF:0 group-title="German",HSE24 - [COLOR blue]google.com[/COLOR]
+http://c17001-l.z.core.cdn.streamfarm.net/10018xhse24/smil:classicmobile.smil/chunklist-b500.m3u8?wowzasessionid=518628888
+#EXTINF:0 group-title="German",HSE24 EXTRA - [COLOR blue]google.com[/COLOR]
+http://c17001-l.z.core.cdn.streamfarm.net/10019xhse24ext/smil:extramobile.smil/chunklist-b500.m3u8?wowzasessionid=658983944
+#EXTINF:0 group-title="German",Isar TV - [COLOR blue]google.com[/COLOR]
+rtmp://isar-tv.iptv-playoutcenter.de/isar-tv/_definst_/ playpath=mp4:isar-tv.stream_1 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/isar-tv.html
+#EXTINF:0 group-title="German",Jazz TV - [COLOR blue]google.com[/COLOR]
+http://149.11.34.78:1935/live/jazztv.stream/hasbahca.m3u8
+#EXTINF:0 group-title="German",JUWELO TV - [COLOR blue]google.com[/COLOR]
+rtmp://85.214.72.27/juwelo_hd/live_DE1
+
+
+#EXTINF:0 group-title="German",Light Channel TV Deutschland - [COLOR blue]google.com[/COLOR]
+rtmp://streamer1.streamhost.org/salive/ playpath=lctvde swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/light-channel-tv-deutschland.html
+#EXTINF:0 group-title="German",LT - TV Baden Wuerttemberg - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.105/ltv-live/livestream
+#EXTINF:0 group-title="German",MDF.1 - [COLOR blue]google.com[/COLOR]
+http://62.113.210.250/medienasa-live/mdf1_high/hasbahca.m3u8
+#EXTINF:0 group-title="German",MDR plus - [COLOR blue]google.com[/COLOR]
+rtmp://mdr-tv-event1livefs.fplive.net:1935/mdr-tv-event1live-live playpath=stream_livetvmdrevent1_de_576 swfUrl=http://www.mdr.de/resources/flash/mdr_av_player.swf pageUrl=http://www.mdr.de/mediathek/livestreams/fernsehen/livestream-mdr-plus100.html live=1
+#EXTINF:0 group-title="German",muenchen tv - [COLOR blue]google.com[/COLOR]
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/hasbahca.m3u8
+
+#EXTINF:0 group-title="German",NOA4 Hamburg (HQ)  - [COLOR blue]google.com[/COLOR]
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-hi?MSWMExt=.asf
+#EXTINF:0 group-title="German",NOA4 Norderstedt (HQ) - [COLOR blue]google.com[/COLOR]
+mmsh://wt-wm1.wtnet.de/noa4-stream-hi?MSWMExt=.asf
+#EXTINF:0 group-title="German",ok-dessau - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live playpath=ok-dessau_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_1.html
+#EXTINF:0 group-title="German",ok-magdeburg - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live playpath=ok-magdeburg_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_2.html
+#EXTINF:0 group-title="German",ok-merseburg - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live playpath=ok-merseburg_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_4.html
+#EXTINF:0 group-title="German",ok-salzwedel - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250:80/medienasa-live playpath=ok-salzwedel_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_6.html
+#EXTINF:0 group-title="German",ok-stendal - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live playpath=ok-stendal_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_5.html
+#EXTINF:0 group-title="German",ok-wernigerode - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live playpath=ok-wernigerode_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/2_7.html
+#EXTINF:0 group-title="German",Parlamentsfernsehen1 - [COLOR blue]google.com[/COLOR]
+rtmp://x3777parlac13014.f.l.f.lb.core-cdn.net:1935/13014bundestag playpath=live/3777parlamentsfernsehen/live_1000 swfUrl=http://webtv.bundestag.de/iptv/swf/xflv/showIt3_10.swf pageUrl=http://www.bundestag.de/Mediathek/index.jsp?action=tv live=1
+#EXTINF:0 group-title="German",Parlamentsfernsehen2 - [COLOR blue]google.com[/COLOR]
+rtmp://x4177pfs2c13014.f.l.f.lb.core-cdn.net:1935/13014bundestag playpath=live/4177pf_s2/live_de_1000 swfUrl=http://webtv.bundestag.de/iptv/swf/xflv/showIt3_10.swf pageUrl=http://www.bundestag.de/Mediathek/index.jsp?action=tv live=1
+
+
+#EXTINF:0 group-title="German",PUNKTum 720*576 - [COLOR blue]google.com[/COLOR]
+http://62.113.210.250/medienasa-live/punktum_high/hasbahca.m3u8
+#EXTINF:0 group-title="German",RAN 1 Dessau - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ran1_high
+#EXTINF:0 group-title="German",RBW 720*576 - [COLOR blue]google.com[/COLOR]
+http://62.113.210.250/medienasa-live/rbw_high/hasbahca.m3u8
+#EXTINF:0 group-title="German",RFH - [COLOR blue]google.com[/COLOR]
+rtmp://62.113.210.250/medienasa-live playpath=RFH_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer7.swf live=1 pageUrl=http://www.medienportal-lsa.de/1_3.html
+#EXTINF:0 group-title="German",RheinMain TV - [COLOR blue]google.com[/COLOR]
+rtmp://217.23.11.44/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/rheinmain-tv.html
+
+
+
+#EXTINF:0 group-title="German",Shop 24 Direct - [COLOR blue]google.com[/COLOR]
+rtmp://tv.ipstreaming.de/stapaOEi// playpath=stapaOEi.stream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.karwan24.com/shop-24-direct.html
+
+#EXTINF:0 group-title="German",SONNENKLAR - [COLOR blue]google.com[/COLOR]
+rtmp://euvia500livefs.fplive.net/euvia500live-live playpath=stream60324 swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.sonnenklar.tv/live-angebote.html
+#EXTINF:0 group-title="German",STUDIO 47 Duisburg - [COLOR blue]google.com[/COLOR]
+rtmp://93.89.13.30:80/live playpath=studio47livestream swfUrl=http://www.studio47.de/tl_files/player.swf live=1 pageUrl=http://www.studio47.de/
+
+#EXTINF:0 group-title="German",Swamiji TV AU - [COLOR blue]google.com[/COLOR]
+mms://streaming.swamiji.tv/YogaIP-TV-LQ
+#EXTINF:0 group-title="German",TV Aktuell - [COLOR blue]google.com[/COLOR]
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8
+#EXTINF:0 group-title="German",TV Oberfranken - [COLOR blue]google.com[/COLOR]
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
+#EXTINF:0 group-title="German",TV Touring Schweinfurt - [COLOR blue]google.com[/COLOR]
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8
+#EXTINF:0 group-title="German",TV Touring Wurzburg - [COLOR blue]google.com[/COLOR]
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
+#EXTINF:0 group-title="German",TVA Ostbayern - [COLOR blue]google.com[/COLOR]
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
+#EXTINF:0 group-title="German",TVM 3 CH - [COLOR blue]google.com[/COLOR]
+rtmp://rtmp.infomaniak.ch/livecast playpath=tvm3 swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.21.swf?sVersion=4%2E2%2E21&sDescription=&bLd=0&sTitle= live=1 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=tvm3&name=html5&player=922
+
+
+#EXTINF:0 group-title="Portugal",--- [COLOR red]PORTUGAL Channels[/COLOR] ---
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:0 group-title="Portugal",RTP1 - [COLOR blue]google.com[/COLOR]
+rtmp://ec21.rtp.pt/livetv playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1
+
+
+#EXTINF:0 group-title="Portugal",RTP INTERNACIONAL - [COLOR blue]google.com[/COLOR]
+rtmp://ec21.rtp.pt/livetv playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional
+
+#EXTINF:0 group-title="Portugal",Basta Crer - [COLOR blue]google.com[/COLOR]
+rtmp://streamspub.manasat.com/live/bastacrer
+#EXTINF:0 group-title="Portugal",ECONOMICO TV - [COLOR blue]google.com[/COLOR]
+http://213.13.26.12:1935/live/_definst_/etv_direto/hasbahca.m3u8
+#EXTINF:0 group-title="Portugal",ECONOMICO TV - [COLOR blue]google.com[/COLOR]
+rtmp://213.13.26.11/live/ playpath=etv_direto swfUrl=http://sicnoticias.sapo.pt/skins/sicnot/gfx/jwplayer/player.swf live=1 pageUrl=http://sicnoticias.sapo.pt/skins/sicnot/gfx/jwplayer/player.swf
+#EXTINF:0 group-title="Portugal",Euronews - [COLOR blue]google.com[/COLOR]
+rtmp://hd4.lsops.net/live/ playpath=bloomber_en_453 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf live=1 pageUrl=http://www.livestation.com/ --live
+#EXTINF:0 group-title="Portugal",RTP 1 - [COLOR blue]google.com[/COLOR]
+rtmp://ec21.rtp.pt/livetv playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/noticias/votacao/?mysurvey=343r23
+#EXTINF:0 group-title="Portugal",RTP 2 - [COLOR blue]google.com[/COLOR]
+rtmp://ec21.rtp.pt/livetv playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/noticias/votacao/?mysurvey=343r23
+#EXTINF:0 group-title="Portugal",TV Ciencia - [COLOR blue]google.com[/COLOR]
+mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
+
+
+
+#EXTINF:0 group-title="Malta",----- [COLOR red]Malta Channels[/COLOR] -----
+rtmpe://89.248.170.199:443
+
+
+#EXTINF:0 group-title="Malta",Smash TV - [COLOR blue]google.com[/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/12803100/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="Turkish",----- [COLOR red]TURKISH Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:0,TRT 1 HD - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0,TRT HABER HD - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0,TRT SPOR HD - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:0,TRT COCUK - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0,TRT TURK - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0,TRT AVAZ - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0,TRT DIYANET - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:0,TRT KURDI - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:0,TRT BELGESEL - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:0,TRT OKUL - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:0,TRT MUZIK - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0,TRT ARAPCA - [COLOR blue]google.com[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+
+#EXTINF:0 group-title="Colombian",--- [COLOR red]COLOMBIAN Channels[/COLOR] ---
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:0 group-title="Colombian",Cable-noticias - [COLOR blue]fosforitotv.blogspot.ca[/COLOR]
+rtmp://50.23.172.98:1935/live/ playpath=cablenoticiastv swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://fosforitotv.blogspot.ca/2013/01/cable-noticias.html
+
+
+#EXTINF:0 group-title="Costarica",--- [COLOR red]COSTA RICA Channels[/COLOR] ---
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:0 group-title="Costarica",Canal 13 - [COLOR blue]wwitv.com[/COLOR]
+rtmp://stream01.cyberfuel.com/SinartCanal13 playpath=livestream swfUrl=http://www.sinart.go.cr/canal13/sinart_video_canal13_480x360.swf live=1 pageUrl=http://wwitv.com/tv_channels/b2975.htm
+
+
+#EXTINF:0 group-title="Dominician",--- [COLOR red]DOMINICIAN Channels[/COLOR] ---
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:0 group-title="Dominician", Telenord Canal 10 - [COLOR blue]telenord.com.do[/COLOR]
+rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf live=1 pageUrl=http://www.telenord.com.do/index.php/canales/canal10
+#EXTINF:0 group-title="Dominician",Telenord Canal 8 - [COLOR blue]telenord.com.do[/COLOR]
+rtmp://mek2.mekstream.com:1935/telenord8 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord8/player-licensed.swf live=1 pageUrl=http://www.telenord.com.do/index.php/canales/canal8
+
+
+
+#EXTINF:0 group-title="Ecuador",----- [COLOR red]ECUADOR Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:0 group-title="Ecuador",ECUADOR Ecuador Tv - [COLOR blue]ecuadortv.ec[/COLOR]
+rtmp://38.96.148.216:1935/live playpath=ecuadortvn3 swfUrl=http://www.ecuadortv.ec/mod_video/player.swf live=1
+
+
+
+#EXTINF:0 group-title="Arabic",----- [COLOR red]ARABIC CHANNELS[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:0 group-title="Arabic",MBC 3 - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
+#EXTINF:0 group-title="Arabic",MBC 4 - [COLOR blue]google.com[/COLOR] 
+rtmp://162.212.176.107/mbc_4/globaltv-mbc_4.stream?LiveSport.HD/IPTV
+#EXTINF:0 group-title="Arabic",mbc_max - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
+#EXTINF:0 group-title="Arabic",Nile Comedy - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/nile_comedy/globaltv-nile_comedy.stream
+#EXTINF:0 group-title="Arabic",Nile Drama - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/nile_drama/globaltv-nile_drama.stream
+#EXTINF:0 group-title="Arabic",Nile Cinema - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/nile_cinema/globaltv-nile_cinema.stream
+#EXTINF:0 group-title="Arabic",LBC - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
+#EXTINF:0 group-title="Arabic",Alriadia_sport - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream
+#EXTINF:0 group-title="Arabic",tunisia_national_1 - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
+#EXTINF:0 group-title="Arabic",tunisia_national_2 - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream
+#EXTINF:0 group-title="Arabic",nessma - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/nessma/globaltv-nessma.stream
+#EXTINF:0 group-title="Arabic",hanibal - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
+#EXTINF:0 group-title="Arabic",medi1 - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream
+#EXTINF:0 group-title="Arabic",art _aflam - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream
+#EXTINF:0 group-title="Arabic",alhayat 1 - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream
+#EXTINF:0 group-title="Arabic",alhayat cinema - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/alhayat_cinema/globaltv-alhayat_cinema.stream
+#EXTINF:0 group-title="Arabic",rotana_cinema - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
+#EXTINF:0 group-title="Arabic",rotana_clip - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/rotana_clip/globaltv-rotana_clip.stream
+#EXTINF:0 group-title="Arabic",rotana_music - [COLOR blue]google.com[/COLOR]
+rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
+
+
+#EXTINF:0 group-title="Arabic",Nile cinema - [COLOR blue]google.com[/COLOR]
+rtmp://livestreaming4.onlinehorizons.net/NTNNilecinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema
+#EXTINF:0 group-title="Arabic",Nile drama - [COLOR blue]google.com[/COLOR]
+rtmp://livestreaming4.onlinehorizons.net/NTNNiledrama playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=drama
+#EXTINF:0 group-title="Arabic",Nile comedy - [COLOR blue]google.com[/COLOR]
+rtmp://livestreaming4.onlinehorizons.net/NTNNilecomedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?
+#EXTINF:0 group-title="Arabic",Nile life - [COLOR blue]google.com[/COLOR]
+rtmp://livestreaming4.onlinehorizons.net/NTNNilelife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?
+#EXTINF:0 group-title="Arabic",Nile sport - [COLOR blue]google.com[/COLOR]
+rtmp://livestreaming4.onlinehorizons.net/NTNNilesport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?
+
+
+#EXTINF:0 group-title="Arabic",Al Arabia - [COLOR blue]magictvbox.com[/COLOR]
+http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
+#EXTINF:0 group-title="Arabic",AL FAYHAA TV mms - [COLOR blue]magictvbox.com[/COLOR]
+mmsh://77.67.107.89/al-fayhaa
+#EXTINF:0 group-title="Arabic",AL HAYAT - [COLOR blue]magictvbox.com[/COLOR]
+rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p
+
+#EXTINF:0 group-title="Arabic",Al Rasheed TV - [COLOR blue]magictvbox.com[/COLOR]
+http://http.mmp.streamuk.com/live/smil:0_fk07czmb.smil/chunklist_b1228800.m3u8
+#EXTINF:0 group-title="Arabic",Aldafrah TV - [COLOR blue]magictvbox.com[/COLOR]
+rtmp://live.aldafrah.tv:1935/live/aldafrah1
+#EXTINF:0 group-title="Arabic",ALDAFRAH1 - [COLOR blue]magictvbox.com[/COLOR]
+rtmp://live.aldafrah.tv/live//aldafrah1
+#EXTINF:0 group-title="Arabic",ALHAYAT 2 - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/63.m3u8
+
+
+
+
+#EXTINF:0 group-title="Arabic",ALHURRIA - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/35.m3u8
+#EXTINF:0 group-title="Arabic",ALIRAQIA - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/39.m3u8
+#EXTINF:0 group-title="Arabic",Aliraqia - [COLOR blue]google.com[/COLOR]
+http://212.7.205.5:1935/Iraqia/live/hasbahca.m3u8
+#EXTINF:0 group-title="Arabic",Aljazeera Arabic - [COLOR blue]google.com[/COLOR]
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_ara_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm swfVfy=true live=true timeout=60
+
+#EXTINF:0 group-title="Arabic",ALKARAZA - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/58.m3u8
+#EXTINF:0 group-title="Arabic",ALMAGHRIBIA - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/30.m3u8
+#EXTINF:0 group-title="Arabic",Alrayi - [COLOR blue]google.com[/COLOR]
+mms://62.215.216.130/wmtencoder/alrai350.wmv
+#EXTINF:0 group-title="Arabic",Alwatan Plus - [COLOR blue]google.com[/COLOR]
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
+#EXTINF:0 group-title="Arabic",ANN News - [COLOR blue]google.com[/COLOR]
+rtmp://ns8.indexforce.com/ann/ann
+#EXTINF:0 group-title="Arabic",ANN TV - [COLOR blue]google.com[/COLOR]
+rtmp://ns8.indexforce.com/ann/ann
+
+#EXTINF:0 group-title="Arabic",ATTARIK - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/43.m3u8
+#EXTINF:0 group-title="Arabic",Bahrain Sport - [COLOR blue]google.com[/COLOR]
+rtmp://alayam.netromedia.net/btv3/btv3
+#EXTINF:0 group-title="Arabic",BAHRAIN SPORTS - [COLOR blue]google.com[/COLOR]
+rtmp://alayam.netromedia.net/btv3/btv3
+#EXTINF:0 group-title="Arabic",BANG TV - [COLOR blue]google.com[/COLOR]
+rtsp://210.1.60.208:1935/live/bang.sdp
+#EXTINF:0 group-title="Arabic",BBC Arabic mms - [COLOR blue]google.com[/COLOR]
+mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma
+
+#EXTINF:0 group-title="Arabic",CNA SAT TV - [COLOR blue]google.com[/COLOR]
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:0 group-title="Arabic",Copticsat TV - [COLOR blue]google.com[/COLOR]
+rtmp://154.obj.netromedia.net/Copticsat/Copticsat
+#EXTINF:0 group-title="Arabic",CTV - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/32.m3u8
+#EXTINF:0 group-title="Arabic",CYC - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/34.m3u8
+#EXTINF:0 group-title="Arabic",Dawn News - [COLOR blue]google.com[/COLOR]
+rtsp://dawnstream.hostingmadeeasy.com/dawn
+
+#EXTINF:0 group-title="Arabic",Dubai - [COLOR blue]google.com[/COLOR]
+http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/hasbahca.m3u8
+#EXTINF:0 group-title="Arabic",EI - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/59.m3u8
+
+#EXTINF:0 group-title="Arabic",I Film  - [COLOR blue]google.com[/COLOR]
+mms://93.190.24.114/ifilmtv
+
+#EXTINF:0 group-title="Arabic",INFINITY TV - [COLOR blue]google.com[/COLOR]
+rtsp://202.142.207.150:1935/live/liveinfinity1
+
+#EXTINF:0 group-title="Arabic",JORDAN - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/38.m3u8
+#EXTINF:0 group-title="Arabic",KUWAIT 1 - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/60.m3u8
+#EXTINF:0 group-title="Arabic",KUWAIT 2 - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/61.m3u8
+#EXTINF:0 group-title="Arabic",KUWAIT 3 - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/62.m3u8
+#EXTINF:0 group-title="Arabic",LE ROYAUM SAT - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/56.m3u8
+#EXTINF:0 group-title="Arabic",LOGOS - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/33.m3u8
+
+#EXTINF:0 group-title="Arabic",METV - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/41.m3u8
+
+
+#EXTINF:0 group-title="Arabic",Syria - [COLOR blue]google.com[/COLOR]
+http://82.137.248.16:1935/Sat/SatLive2/hasbahca.m3u8
+#EXTINF:0 group-title="Arabic",SYRIA - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/37.m3u8
+#EXTINF:0 group-title="Arabic",SYRIA DRAMA - [COLOR blue]google.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/95.m3u8
+
+#EXTINF:0 group-title="Arabic",Wesal Haq TV - [COLOR blue]google.com[/COLOR]
+rtmp://live.noorlive.com:1935/wesal/wesal1
+
+#EXTINF:0 group-title="Arabic",ALMAGHRIBIA  - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/30.m3u8 
+#EXTINF:0 group-title="Arabic",ALHURRIA - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/35.m3u8 
+#EXTINF:0 group-title="Arabic",SYRIA - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/37.m3u8 
+#EXTINF:0 group-title="Arabic",JORDAN  - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/38.m3u8 
+#EXTINF:0 group-title="Arabic",ALIRAQIA - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/39.m3u8 
+#EXTINF:0 group-title="Arabic",AD ALOULA - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/40.m3u8 
+#EXTINF:0 group-title="Arabic",ATTARIK - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/43.m3u8 
+#EXTINF:0 group-title="Arabic",ALKARAZA - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/58.m3u8 
+#EXTINF:0 group-title="Arabic",EI - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/59.m3u8 
+#EXTINF:0 group-title="Arabic",KUWAIT 1 - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/60.m3u8 
+#EXTINF:0 group-title="Arabic",KUWAIT 2 - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/61.m3u8 
+#EXTINF:0 group-title="Arabic",KUWAIT 3 - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/62.m3u8 
+#EXTINF:0 group-title="Arabic",ALHAYAT 2 - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/63.m3u8 
+#EXTINF:0 group-title="Arabic",2M - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/96.m3u8 
+
+#EXTINF:0 group-title="Arabic",Bahrain Sport  - [COLOR blue]google.com[/COLOR]
+rtmp://alayam.netromedia.net/btv3/btv3 
+#EXTINF:0 group-title="Arabic",Dubai - [COLOR blue]google.com[/COLOR]
+rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1 
+
+#EXTINF:0 group-title="Arabic",AlJazeera kids - [COLOR blue]magictvbox.com[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8 
+ 
+#EXTINF:0 group-title="Arabic",Al Arabia - [COLOR blue]magictvbox.com[/COLOR]
+http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8 
+
+#EXTINF:0 group-title="Arabic",al horriya - [COLOR blue]magictvbox.com[/COLOR]
+rtmp://fms.pwmcdn.com/alhorreya/alhorreya2 
+
+#EXTINF:0 group-title="Arabic",CTV - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/32.m3u8
+
+#EXTINF:0 group-title="Arabic",Logos Tv - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/33.m3u8
+
+#EXTINF:0 group-title="Arabic", cYc - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/34.m3u8
+
+#EXTINF:0 group-title="Arabic",DJJD - [COLOR blue]magictvbox.com[/COLOR]
+http://cdn-streamer2.magictvbox.com/37.m3u8
+
+
+
+#EXTINF:0 group-title="serbia",----- [COLOR red]Serbian Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:0 group-title="serbia",B92  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",HAPPY  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",HRT 1  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/hrt_1.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",HRT 2  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/hrt_2.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",KANAL 3  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",SKY  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/sky_plus.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",PALMA PLUS  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",PINK  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",PRVA TV  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",RTCG SAT  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",RTRS  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",RTS 1  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",RTS 2  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/rts_2.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",RTV 1  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/rtv_1.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",SOS  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv1/live/sos.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+#EXTINF:0 group-title="serbia",STUDIO B  - [COLOR blue]google.com[/COLOR]
+http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
+
+
+
+
+
+#EXTINF:0 group-title="mexico",----- [COLOR red]MEXICO Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:-1 group-title="mexico",Acapulco TV Mexico - [COLOR blue]google.com[/COLOR]
+rtmp://video.hosteris.com/tvacapulco/tvacapulco
+
+#EXTINF:-1 group-title="mexico",Azteca 7 HD 1080 Mexico - [COLOR blue]google.com[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE05.m3u8?
+
+#EXTINF:-1 group-title="mexico",Azteca 7 Mexico - [COLOR blue]google.com[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="mexico",Azteca 7 Monterrey Mexico - [COLOR blue]google.com[/COLOR] 
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1 group-title="mexico",Cadena 3 Mexico - [COLOR blue]google.com[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="mexico",Canal 2 Los Mochis Mexico - [COLOR blue]google.com[/COLOR]
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 group-title="mexico",Canal 2 Obregon Mexico - [COLOR blue]google.com[/COLOR]
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 group-title="mexico",Canal 2 XEWTV HD 1080 Mexico - [COLOR blue]google.com[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?
+
+#EXTINF:-1 group-title="mexico",Canal 2 XEWTV Mexico - [COLOR blue]google.com[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="mexico",Canal 2 XEWTV Mexico - [COLOR blue]google.com[/COLOR]
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+#EXTINF:-1 group-title="mexico",Canal 4 Foro TV Mexico - [COLOR blue]google.com[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="mexico",Canal 4 Foro TV Mexico - [COLOR blue]google.com[/COLOR]
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+
+#EXTINF:-1 group-title="mexico",Canal 4 Merida  - [COLOR blue]google.com[/COLOR] 
+rtmp://159.16.243.10/live/canal4/canal4
+
+#EXTINF:-1 group-title="mexico",Canal 5 HD 1080 Mexico - [COLOR blue]google.com[/COLOR] 
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?
+
+#EXTINF:-1 group-title="mexico" ,Canal 5 Mexico - [COLOR blue]google.com[/COLOR] 
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="mexico",Canal 6 Guadalajara Mexico - [COLOR blue]google.com[/COLOR]
+rtmp://200.52.193.57:1935/live/unique/live_2650
+
+#EXTINF:-1 group-title="mexico",Canal 6 Guadalajara Mexico (OFFLINE) - [COLOR blue]google.com[/COLOR]
+rtmp://200.52.193.57:1935/live/unique/live_2650
+
+#EXTINF:-1 group-title="mexico",CanaldelasEstrellas Mex. - [COLOR blue]google.com[/COLOR]
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
+
+#EXTINF:-1 group-title="mexico",Capital 21 Mexico - [COLOR blue]google.com[/COLOR]
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+
+#EXTINF:-1 group-title="mexico",EDUSAT Canal 21 TeleMexico - [COLOR blue]google.com[/COLOR]
+http://dl-dgtve.puntoti.com.mx:1935/dgtve/canal21dgtve.mp4/playlist.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 group-title="mexico",Efekto TV Mexico - [COLOR blue]google.com[/COLOR]
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="mexico",Fox Mexico - [COLOR blue]google.com[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="mexico",Fox Mexico HD  - [COLOR blue]google.com[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?
+
+#EXTINF:-1 group-title="mexico",Mexico Travel Channel - [COLOR blue]google.com[/COLOR] 
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="mexico",-Mexiquense - [COLOR blue]google.com[/COLOR]
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1 group-title="mexico",MTV Mexico - [COLOR blue]google.com[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="mexico",MULTIMEDIOS TV - [COLOR blue]google.com[/COLOR]
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+
+#EXTINF:-1 group-title="mexico",Multimedios TV SD 4:3 Mexico - [COLOR blue]google.com[/COLOR]
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=
+
+#EXTINF:-1 group-title="mexico",Nuestra Vision Canal 5 Mexico - [COLOR blue]google.com[/COLOR]
+rtmp://159.16.243.10/live/canal5/canal5
+
+#EXTINF:-1 group-title="mexico",Once TV Internacional Mexico - [COLOR blue]google.com[/COLOR]
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="mexico",Radio y Television Mexiquense - [COLOR blue]google.com[/COLOR]
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1 group-title="mexico",SIPSA TV Cancun  - [COLOR blue]google.com[/COLOR]
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
+
+#EXTINF:-1 group-title="mexico",Telemar Campeche - [COLOR blue]google.com[/COLOR] 
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+
+#EXTINF:-1 group-title="mexico",THITHD - [COLOR blue]google.com[/COLOR]
+http://187.247.255.139/Apple/THITHD.m3u8
+
+#EXTINF:-1 group-title="mexico",TV MAS Mexico - [COLOR blue]google.com[/COLOR]
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1 group-title="mexico",TV Mexiquense - [COLOR blue]google.com[/COLOR]
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1 group-title="mexico",TVMas Mexico - [COLOR blue]google.com[/COLOR]
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1 group-title="mexico",UNO TV HD 720 Mexico - [COLOR blue]google.com[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
+
+#EXTINF:0 group-title="mexico",Azteca13 - [COLOR blue]manualeitor.com[/COLOR]
+http://urtmpkal-f.akamaihd.net/i/022fq4x8p_1@130156/index_1_av-b.m3u8
+
+#EXTINF:0 group-title="mexico",Canal Once - [COLOR blue]manualeitor.com[/COLOR]
+rtmp://canaloncelive.tv:1935/livepkgr2/int3 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf live=1 pageUrl=http://www.elchoyerotv.tv/2013/09/canal-once-tv-en-vivo-online.html
+
+#EXTINF:0 group-title="mexico",Canal22 - [COLOR blue]manualeitor.com[/COLOR]
+rtmp://origen.cloudapp.net:80/live/envivopc playpath=envivopc swfUrl=http://www.enlinea.canal22.org.mx/strobemediaplayback.swf live=1 pageUrl=http://tv-internet-tv.com/tv-mexico/canal-22.html
+
+#EXTINF:0 group-title="mexico",ForoTV - [COLOR blue]manualeitor.com[/COLOR]
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_150_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 group-title="mexico",AZTECA NOTICIAS - [COLOR blue]google.com[/COLOR]
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:0 group-title="mexico",AZTECA NOTICIAS - [COLOR blue]manualeitor.com[/COLOR]
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_1_av-b.m3u8
+
+#EXTINF:0 group-title="mexico",Canal 22 Mexico - [COLOR blue]streamsportlive.me[/COLOR]
+rtmp://origen.cloudapp.net/live/ playpath=envivopc swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/15.html
+
+#EXTINF:0 group-title="mexico",CB Television - [COLOR blue]stream2video.tv[/COLOR]
+rtmp://189.199.90.164:1935/live playpath=myStreamHD.sdp swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.stream2video.tv/getStream/132/1
+
+#EXTINF:0 group-title="mexico",oncetv - [COLOR blue]stream2video.tv[/COLOR]
+rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/137/1
+#EXTINF:0 group-title="mexico", Canal 10 - [COLOR blue]oncetvmexicolive.tv[/COLOR]
+rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf
+
+#EXTINF:0 group-title="mexico",Mexiquense - [COLOR blue]stream2video.tv[/COLOR]
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_ playpath=broadcast1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/134/1
+
+
+#EXTINF:0 group-title="Slovenian",----- [COLOR red]Slovenian Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+#EXTINF:0 group-title="Slovenian",SLO3  - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.11:4444
+ 
+#EXTINF:0 group-title="Slovenian",SLO 1  - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.115:4444
+#EXTINF:0 group-title="Slovenian",SLO 2  - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.116:4444
+#EXTINF:0 group-title="Slovenian",NOVA  - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.104:4444
+#EXTINF:0 group-title="Slovenian",KINO (SLO)  - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.111:4444
+ 
+
+
+#EXTINF:0 group-title="croatia",----- [COLOR red]CROATIA Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:0 group-title="croatia", D (CRO) - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.113:4444
+
+
+#EXTINF:0 group-title="croatia",HRT 1 - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.74:4444
+#EXTINF:0 group-title="croatia",HRT 2 - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.75:4444
+#EXTINF:0 group-title="croatia",RTL (CRO) - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.101:4444
+#EXTINF:0 group-title="croatia",RTL 2 (CRO) - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.102:4444
+#EXTINF:0 group-title="croatia",RTL LIVING (CRO) - [COLOR blue]google.com[/COLOR]
+http://193.105.67.115:8888/udp/239.23.0.103:4444
+
+#EXTINF:0 group-title="croatia",RTL - [COLOR blue]google.com[/COLOR]
+http://178.218.162.146/918829941/rtl1.stream/chunklist_w151028916.m3u8
+
+
+
+
+#EXTINF:0 group-title="croatia",HRT 1 - [COLOR blue]google.com[/COLOR]
+http://149.255.39.122/aasd/8830/index.m3u8
+
+
+#EXTINF:0 group-title="croatia",HRT2 - [COLOR blue]google.com[/COLOR]
+
+http://tvplayer.iskon.hr/enc5.m3u8
+
+#EXTINF:0 group-title="croatia",HRT 2 - [COLOR blue]google.com[/COLOR]
+http://83.139.104.101/Content/HLS/Live/Channel(HTV2)/index.m3u8 
+
+
+
+
+
+#EXTINF:0 group-title="Luxembourg",--- [COLOR red]LUXEMBURG Channels[/COLOR] ---
+rtmpe://89.248.170.199:443/
+
+#EXTINF:0 group-title="Luxembourg",RTL - [COLOR blue]google.com[/COLOR]
+rtmp://wowza01.newmedia.lu/channel1/live
+
+
+#EXTINF:0 group-title="Argentina",--- [COLOR red]ARGENTINA Channels[/COLOR] ---
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:0 group-title="Argentina",TN Canal 13 - [COLOR blue]google.com[/COLOR]
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:0 group-title="Argentina",TN 24 Horas - [COLOR blue]google.com[/COLOR]
+rtsp://stream.tn.com.ar/live/tnhd1 
+
+#EXTINF:0 group-title="Argentina",C5N - [COLOR blue]google.com[/COLOR]
+rtmp://c5n.stweb.tv/c5n/live
+#EXTINF:0 group-title="Argentina",TN 24 Horas - [COLOR blue]tn.com.ar[/COLOR]
+rtmp://stream.tn.com.ar/live/tnmovil1 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/
+
+
+#EXTINF:0 group-title="bolivia",----- [COLOR red]BOLIVIA Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:0 group-title="bolivia", Redadvenir - [COLOR blue]google.com[/COLOR]
+rtmp://streamer1.streamhost.org/salive/GMIalfam 
+
+
+
+
+#EXTINF:0 group-title="Africa",----- [COLOR red]African Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:0 group-title="Africa",1 - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/5958/index.m3u8
+
+#EXTINF:0 group-title="Africa",1tv1 - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/1tv1.m3u8
+
+#EXTINF:0 group-title="Africa",2s - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/10359/index.m3u8
+
+#EXTINF:0 group-title="Africa",2siracines - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-2siracines.m3u8
+
+#EXTINF:0 group-title="Africa",2stvroku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-2stvroku.m3u8
+
+#EXTINF:0 group-title="Africa",2tv1 - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/2tv1.m3u8
+
+#EXTINF:0 group-title="Africa",AFRICA BOX SERIES - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/8037/index.m3u8
+
+#EXTINF:0 group-title="Africa",AFRICA BOX ZAMBIE - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/8038/index.m3u8
+
+#EXTINF:0 group-title="Africa",africableroku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-africableroku.stream.m3u8
+
+#EXTINF:0 group-title="Africa",aliraqiya - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/aliraqiya.m3u8
+
+#EXTINF:0 group-title="Africa",alquraan - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-alquraan.stream.m3u8
+
+#EXTINF:0 group-title="Africa",ben - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-ben.m3u8
+
+#EXTINF:0 group-title="Africa",bonetv - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/bonetv.stream.m3u8
+
+#EXTINF:0 group-title="Africa",campustv - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/campustv.stream.m3u8
+
+#EXTINF:0 group-title="Africa",canal12 - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/canal12.stream.m3u8
+
+#EXTINF:0 group-title="Africa",canal5 - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/canal5.stream.m3u8
+
+#EXTINF:0 group-title="Africa",canal6 - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/canal6.stream.m3u8
+
+#EXTINF:0 group-title="Africa",crtvroku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-crtvroku.m3u8
+
+#EXTINF:0 group-title="Africa",equinoxe - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-equinoxe.m3u8
+
+#EXTINF:0 group-title="Africa",fashionone - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/fashionone.m3u8
+
+
+#EXTINF:0 group-title="Africa",france24roku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-france24roku.stream.m3u8
+
+#EXTINF:0 group-title="Africa",gabontv - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-gabontv.stream.m3u8
+
+#EXTINF:0 group-title="Africa",globotv - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/globotv.m3u8
+
+#EXTINF:0 group-title="Africa",grtsroku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-grtsroku.m3u8
+
+#EXTINF:0 group-title="Africa",hchtv - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/hchtv.m3u8
+
+#EXTINF:0 group-title="Africa",hctvgermany - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/hctvgermany.m3u8
+
+#EXTINF:0 group-title="Africa",imedi - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/imedi.m3u8
+
+#EXTINF:0 group-title="Africa",ktnroku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-ktnroku.m3u8
+
+#EXTINF:0 group-title="Africa",LCP - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/8413/index.m3u8
+
+#EXTINF:0 group-title="Africa",maestro - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/maestro.m3u8
+
+#EXTINF:0 group-title="Africa",maisha - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-maisha.m3u8
+
+#EXTINF:0 group-title="Africa",mauritania - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-mauritania.m3u8
+
+#EXTINF:0 group-title="Africa",mayatv - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/mayatv.m3u8
+
+#EXTINF:0 group-title="Africa",mystream1 - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/mystream1.m3u8
+
+#EXTINF:0 group-title="Africa",mystream1 - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/mystream1.m3u8
+
+#EXTINF:0 group-title="Africa",mystream2 - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/mystream2.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7425/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7346/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7353/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7349/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7424/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7352/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7350/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/9132/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7441/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7351/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7347/index.m3u8
+
+#EXTINF:0 group-title="Africa",New channel - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7348/index.m3u8
+
+#EXTINF:0 group-title="Africa",nollywood-roku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-nollywood-roku.m3u8
+
+#EXTINF:0 group-title="Africa",nta - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-nta.stream.m3u8
+
+#EXTINF:0 group-title="Africa",ortbroku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-ortbroku.stream.m3u8
+
+#EXTINF:0 group-title="Africa",RADIO - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7716/index.m3u8
+
+#EXTINF:0 group-title="Africa",RADIO Corcas.com - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/5959/index.m3u8
+
+#EXTINF:0 group-title="Africa",rtgatv - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/rtgatv.stream.m3u8
+
+#EXTINF:0 group-title="Africa",rtgroku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-rtgroku.stream.m3u8
+
+#EXTINF:0 group-title="Africa",rti1roku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-rti1roku.m3u8
+
+#EXTINF:0 group-title="Africa",rtncroku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-rtncroku.m3u8
+
+#EXTINF:0 group-title="Africa",SENAT - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/7808/index.m3u8
+
+#EXTINF:0 group-title="Africa",Stream1 - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/Stream1.m3u8
+
+#EXTINF:0 group-title="Africa",sulavision - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/sulavision.m3u8
+
+#EXTINF:0 group-title="Africa",telecadena - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/telecadena.stream.m3u8
+
+#EXTINF:0 group-title="Africa",teleceiba - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/teleceiba.m3u8
+
+#EXTINF:0 group-title="Africa",telecongo - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-telecongo.stream.m3u8
+
+#EXTINF:0 group-title="Africa",teleprogreso - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/teleprogreso.m3u8
+
+#EXTINF:0 group-title="Africa",telesahel - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-telesahel.m3u8
+
+#EXTINF:0 group-title="Africa",telesistema - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/telesistema.stream.m3u8
+
+#EXTINF:0 group-title="Africa",tfmroku - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-tfmroku.m3u8
+
+#EXTINF:0 group-title="Africa",tododeportes - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/tododeportes.stream.m3u8
+
+#EXTINF:0 group-title="Africa",trtspor - [COLOR blue]google.com[/COLOR] 
+
+http://162.212.176.83:8080/trtspor.m3u8
+
+#EXTINF:0 group-title="Africa",tvchd - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/tvchd.stream.m3u8
+
+#EXTINF:0 group-title="Africa",tvs1tv - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/tvs1tv.stream.m3u8
+
+#EXTINF:0 group-title="Africa",tvt - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/map-tvt.stream.m3u8
+
+#EXTINF:0 group-title="Africa",vicatv - [COLOR blue]google.com[/COLOR]
+
+http://162.212.176.83:8080/vicatv.m3u8
+
+#EXTINF:0 group-title="Africa",Voxafrica - [COLOR blue]google.com[/COLOR]
+
+http://95.81.165.21/10360/index.m3u8
+
+
+#EXTINF:0 group-title="Brazil",--- [COLOR red]BRASILIAN Channels[/COLOR] ---
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:0 group-title="Brazil",ADNET - [COLOR blue]google.com[/COLOR]
+
+http://72.55.156.19:1935/adinetgospel/adinetgospel/playlist.m3u8
+
+#EXTINF:0 group-title="Brazil", CANCAO NOVA - [COLOR blue]google.com[/COLOR]
+
+http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
+
+#EXTINF:0 group-title="Brazil", CANAL RURAL - [COLOR blue]google.com[/COLOR]
+
+http://7149o.ls.azioncdn.net:1935/7149o/canal_rural.sdp/live.m3u8
+
+#EXTINF:0 group-title="Brazil", CHEFTV - [COLOR blue]google.com[/COLOR]
+
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
+
+#EXTINF:0 group-title="Brazil", COMBATE - [COLOR blue]google.com[/COLOR]
+
+http://live-cdn.direct-stream.org:1935/live/_definst_/ctv0009/Anderson_Elias.m3u8
+
+#EXTINF:0 group-title="Brazil",Agrosat - [COLOR blue]google.com[/COLOR]
+rtmp://srvvenus.canaldoboi.com/liveac/livestream?adbe-live-event=liveevent playpath=livestream?adbe-live-event=liveevent swfUrl=http://srvvenus.canaldoboi.com:8080/playern/player.swf live=1  pageUrl=http://srvvenus.canaldoboi.com
+
+#EXTINF:0 group-title="Brazil",Aperipe TV - Aracaju - [COLOR blue]google.com[/COLOR]
+rtmp://fms03.ideastek.com.br/tvaperipe playpath=tvaperipe swfUrl=http://wwitv.com/player/player15.swf live=1
+
+#EXTINF:0 group-title="Brazil",Arena Corinthians - Odebrecht - [COLOR blue]google.com[/COLOR]
+http://www.arenatimao.com/ao_vivo/video_manha.flv
+
+#EXTINF:0 group-title="Brazil",Canal 21 - GTV Cascavel - [COLOR blue]google.com[/COLOR]
+rtmp://wowza.catve.com.br/live2/livestream playpath=livestream swfUrl=http://catve.tv/swf/streaming.swf live=1  pageUrl=http://catve.tv/21-ao-vivo
+
+#EXTINF:0 group-title="Brazil",CATVE - [COLOR blue]google.com[/COLOR]
+rtmp://stream.catve.com.br/live/livestream playpath=livestream swfUrl=http://catve.tv/swf/streaming.swf live=1  pageUrl=http://catve.tv/ao-vivo
+
+#EXTINF:0 group-title="Brazil",Conexao BR - [COLOR blue]google.com[/COLOR]
+rtmp://srvvenus.canaldoboi.com/livecx playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1 pageUrl=http://live.sba1.com:8080/playern/?canal=livecx&largura=588&altura=464
+
+#EXTINF:0 group-title="Brazil",Cristo Vive - [COLOR blue]google.com[/COLOR]
+rtmp://75.126.54.163:1935/live_apostolo_476 playpath=tvcristovive3 swfUrl=http://webcast.overseebrasil.com.br/player_swf/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://webcast.overseebrasil.com.br/player.php?p=tvcristovive3&auto=true&hide=false&i=true&l=400&a=300
+
+#EXTINF:0 group-title="Brazil",Cultura - [COLOR blue]google.com[/COLOR]
+rtmp://200.136.27.12/livepkgr playpath=tvcultura4?adbe-live-event=liveevent swfUrl=http://cmais.com.br/portal/js/mediaplayer/player.swf live=1 pageUrl=http://cmais.com.br/aovivo
+
+
+
+#EXTINF:0 group-title="Brazil",IURD TV - [COLOR blue]google.com[/COLOR]
+rtmp://cp116309.live.edgefcs.net/live/ playpath=RodrigoLive@46406 swfUrl=http://www.universal.org/tv/swf/flowplayer-3.2.5.swf live=1 pageUrl=http://www.universal.org/tv/ conn=S:OK --live
+
+#EXTINF:0 group-title="Brazil",Mega TV - [COLOR blue]google.com[/COLOR]
+rtmp://rtmp.cdn.upx.net.br/00135_4/myStream.sdp app=00135_4 pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00135_4&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00135_4&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://rtmp.cdn.upx.net.br/001
+
+#EXTINF:0 group-title="Brazil",Rede Familia - [COLOR blue]google.com[/COLOR]
+rtsp://srv3.ntelecom.com.br/redefamilia
+
+#EXTINF:0 group-title="Brazil",Rede Gospel - [COLOR blue]google.com[/COLOR]
+rtmp://media.igospel.com.br:1935/live playpath=redegospel swfUrl=http://www.redegospel.tv.br/site/library/swf/player.swf live=1 pageUrl=http://www.redegospel.tv.br/site/
+
+#EXTINF:0 group-title="Brazil",Rede Minas - [COLOR blue]google.com[/COLOR]
+mms://tv-coder.unifenas.br/aovivo
+
+#EXTINF:0 group-title="Brazil",Rede Mundo Maior Espirita - [COLOR blue]google.com[/COLOR]
+rtmp://flash.asaweb.com.br/8306/ playpath=8306 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://feal.com.br/player_tvmm.html
+
+#EXTINF:0 group-title="Brazil",Rede Vida - [COLOR blue]google.com[/COLOR]
+rtmp://rtmp.cdn.upx.net.br:80/74cc/ playpath=myStream.sdp swfUrl=http://releases.flowplayer.org/5.4.3/commercial/flowplayer.swf live=1 pageUrl=http://www.redevida.com.br/ao-vivo/
+
+#EXTINF:0 group-title="Brazil",RedeTV HD - [COLOR blue]google.com[/COLOR]
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/ playpath=redetv1 swfUrl=http://www.redetv.uol.com.br/aovivo/player.swf live=1 pageUrl=http://www.redetv.uol.com.br/aovivo/ conn=S:OK swfVfy=true live=true timeout=10
+
+#EXTINF:0 group-title="Brazil",RedeTV Joao Pessoa - TV Arapuan - [COLOR blue]google.com[/COLOR]
+rtmp://mediacp.ciclanohost.com.br:1935/8064 playpath=8064 swfUrl=http://flashplayer.estadovirtual.com.br/assets/player.swf live=1 pageUrl=http://www.tvarapuan.com.br/
+
+#EXTINF:0 group-title="Brazil",Rit TV - [COLOR blue]google.com[/COLOR]
+rtmp://flash1.crossdigital.com.br/ponto79/ playpath=ongrace swfUrl=http://www.rittv.com.br/assets/679b3032/player.swf live=1 pageUrl=http://www.rittv.com.br/
+
+
+#EXTINF:0 group-title="Brazil",SBT Salvador - TV Aratu - [COLOR blue]google.com[/COLOR]
+rtmp://orgbalance.navegarteidc.net/tvaratu playpath=tvaratu.sdp swfUrl=http://www.aratuonline.net/player/player.swf live=1 pageUrl=http://www.aratuonline.net/
+
+#EXTINF:0 group-title="Brazil",TV Alese - Sergipe - [COLOR blue]google.com[/COLOR]
+mms://midia.infonet.com.br/tvalese
+
+#EXTINF:0 group-title="Brazil",TV Alfenas - [COLOR blue]google.com[/COLOR]
+mms://tv-coder.unifenas.br/aovivo
+
+#EXTINF:0 group-title="Brazil",TV Antares - Arapongas PR - [COLOR blue]google.com[/COLOR]
+rtmp://srv3.zoeweb.tv/z99-live playpath=stream swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.15.swf live=1 pageUrl=http://www.tvantares.com.br/player.html
+
+#EXTINF:0 group-title="Brazil",TV Aparecida - [COLOR blue]google.com[/COLOR]
+rtmp://caikrondatacenter.com.br:1935/tvaparecida playpath=tvaparecida.stream swfUrl=http://caikronaudiencia.com.br/player/player_aparecida2.swf?Stream=tvaparecida.stream&server=rtmp://caikrondatacenter.com.br:1935/tvaparecida&largura=620&altura=348&buffer=2&nometv=&mensagem=&usuario= live=1 pageUrl=http://caikronaudiencia.com.br/player/aparecida2.php?server=rtmp://caikrondatacenter.com.br:1935/tvaparecida&stream=tvaparecida.stream&buffer=2&altura=348&largura=620
+
+#EXTINF:0 group-title="Brazil",TV Brasil - [COLOR blue]google.com[/COLOR]
+rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/ playpath=stream1 swfUrl=http://tvbrasil.ebc.com.br/sites/_tvbrasil/mediaelement/flashmediaelement.swf live=1 pageUrl=http://tvbrasil.ebc.com.br/sites/_tvbrasil/wtv-embed.php?origem=capa-tvbrasilinternacional
+
+#EXTINF:0 group-title="Brazil",TV Cidade  - [COLOR blue]google.com[/COLOR]
+mms://65.182.104.113:8001/tvcidade
+
+#EXTINF:0 group-title="Brazil",Porto Alegre - [COLOR blue]google.com[/COLOR]
+rtmp://32747t.lp.azioncdn.net:80/2747t playpath=2747t/a/mp4:access_options/rtmp-live/tvcom.sdp swfUrl=http://videos.clicrbs.com.br/rs/tvcom/swf/ACTPlayer.swf live=1 pageUrl=http://videos.clicrbs.com.br/rs/tvcom/videonews/1443/
+
+#EXTINF:0 group-title="Brazil",Florianopolis - SC - [COLOR blue]google.com[/COLOR]
+rtmp://322747t.lp.azioncdn.net:443/2747t playpath=a/mp4:access_options/rtmp-live/tvcom-sc.sdp swfUrl=http://videos.clicrbs.com.br/sc/tvcom/swf/ACTPlayer.swf live=1 pageUrl=http://videos.clicrbs.com.br/sc/tvcom/videonews/15681/
+
+#EXTINF:0 group-title="Brazil",Jangadeiro - Band Fortaleza
+rtmp://201.12.119.29/livepkgr/ playpath=tvjangadeiro3 swfUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/wp-content/themes/2013_jangadeiro_tv/js/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/ao-vivo/
+
+#EXTINF:-1,TV Aberta Brasil:TV Mundial - [COLOR blue]google.com[/COLOR]
+rtmp://srvvenus.canaldoboi.com/livenc playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1 pageUrl=http://live.sba1.com:8080/playern/?canal=livenc&largura=480&altura=360
+
+#EXTINF:0 group-title="Brazil",TV Pocos - [COLOR blue]google.com[/COLOR]
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp app=00084 pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00084&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00084&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://rtmp.cdn.upx.net.br/00084 playP
+
+#EXTINF:0 group-title="Brazil",TV Seculo XXI - [COLOR blue]google.com[/COLOR]
+http://257919-lh.akamaihd.net/TVSeculo21_hdlive_250@145740?bandwidthEstimationTest=true&v=3.0.3&fp=WIN%2012,0,0,43&r=JTECX&g=KTAKFMMSIQWI
+
+#EXTINF:0 group-title="Brazil",Senado - [COLOR blue]google.com[/COLOR]
+mms://drix.senado.gov.br/tv1
+
+#EXTINF:0 group-title="Brazil",Sul Educativa - [COLOR blue]google.com[/COLOR]
+rtmp://rtmp.cdn.upx.net.br/00046 playpath=myStream.sdp swfUrl=http://files.cdn.upx.net.br/sandbox/static/library/flowplayer/flowplayer.unlimited-3.2.5.swf?0.09719580854289234 live=1 pageUrl=http://www.tvsul.tv.br/
+
+#EXTINF:0 group-title="Brazil",TVE do Rio Grande do Sul - [COLOR blue]google.com[/COLOR]
+mms://200.189.113.200/TVE
+
+#EXTINF:0 group-title="Brazil",Via Morena Tv - Campo Grande - [COLOR blue]google.com[/COLOR]
+rtmp://nsp0813vimna35.nethorizontes.com.br/nsp0813vimna35 playpath=viamorena swfUrl=http://livetvstreaming.ucoz.com live=1 live=1 
+
+
+
+#EXTINF:0 group-title="Brazil",Sevilla FC  - [COLOR blue]google.com[/COLOR]
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+
+#EXTINF:0 group-title="Brazil",history  - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=history
+#EXTINF:0 group-title="Brazil",son2 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=sonyspin
+#EXTINF:0 group-title="Brazil",na3 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=natgeo
+#EXTINF:0 group-title="Brazil",ni4 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=nickjr
+#EXTINF:0 group-title="Brazil",hboplus5 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=hboplus
+#EXTINF:0 group-title="Brazil",sony6 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=sony
+#EXTINF:0 group-title="Brazil",to7 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=tooncast
+#EXTINF:0 group-title="Brazil",tc9 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=tccult
+#EXTINF:0 group-title="Brazil",st10 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=studio
+
+#EXTINF:0 group-title="Brazil",mg12 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=mgm
+#EXTINF:0 group-title="Brazil",sy13 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=syfy
+#EXTINF:0 group-title="Brazil",dis15 - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://109.200.202.124/live pageUrl=http://tv-msn.com swfUrl=http://www.tv-msn.com/player/player.swf playpath=disney
+
+#EXTINF:0 group-title="China",----- [COLOR red]CHINA Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:0,American Chinese- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
+#EXTINF:0,Television Champion - [COLOR blue]tv-msn.com[/COLOR]
+http://27.100.64.99:1935/liveedge/smil:live_2_0_iphone.smil/playlist.m3u8
+#EXTINF:0,Television Champion- [COLOR blue]tv-msn.com[/COLOR]
+http://27.100.64.99:1935/liveedge/live_2_0_0.stream/playlist.m3u8
+#EXTINF:0,Taichung News - [COLOR blue]tv-msn.com[/COLOR]
+http://27.100.64.99:1935/liveedge/smil:live_1_1_iphone.smil/playlist.m3u8
+#EXTINF:0,Nantou News- [COLOR blue]tv-msn.com[/COLOR]
+http://27.100.64.99:1935/liveedge/smil:live_1_2_iphone.smil/playlist.m3u8
+#EXTINF:0,China Film- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+#EXTINF:0,Kirin live- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
+#EXTINF:0,Kirin Arts- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
+#EXTINF:0,Kirin children - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+#EXTINF:0,Travel Channel - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8
+#EXTINF:0,Southern TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8
+#EXTINF:0,Xiamen TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/xmtv/as/live/xmtv_4.m3u8
+#EXTINF:0,Hunan International - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8
+#EXTINF:0,Henan International- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/henantv/as/live/henantv_4.m3u8
+#EXTINF:0,Tianjin International- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
+#EXTINF:0,Anhui International- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/ahtv/as/live/ahtv_4.m3u8
+#EXTINF:0,Chongqing International- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/cqtvi/as/live/cqtvi_4.m3u8
+#EXTINF:0,First Financial- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_4.m3u8
+#EXTINF:0,Sichuan International- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/sctv/as/live/sctv_4.m3u8
+#EXTINF:0,Shandong International- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/sdtvi/as/live/sdtvi_4.m3u8
+#EXTINF:0,Phoenix IT- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+#EXTINF:0,Phoenix Hong Kong- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:0,Phoenix Americas- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
+#EXTINF:0,Chinese television- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
+#EXTINF:0,Chinese television- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
+#EXTINF:0,The Hong Kong and Taiwan- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
+#EXTINF:0,Air classroom- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/clcchannel/as/live/clcchannel_4.m3u8
+#EXTINF:0,Kirin children - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+#EXTINF:0,Kirin fashion- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
+#EXTINF:0,Kunlun theater- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_4.m3u8
+#EXTINF:0,Yangtze River Theatre- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/yangtse/as/live/yangtse_4.m3u8
+#EXTINF:0,Tianjin TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
+#EXTINF:0,Zhejiang TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
+#EXTINF:0,Shenzhen Satellite TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv003.cdnak.ds.kylintv.net/nlds/kylin/sztvhd/as/live/sztvhd_4.m3u8
+#EXTINF:0,Shandong TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd_4.m3u8
+#EXTINF:0,Beijing TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
+#EXTINF:0,FTV MASTV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
+#EXTINF:0,Eastern sure- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+#EXTINF:0,TTV America- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+#EXTINF:0,ICN International TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+#EXTINF:0,Eastern TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+#EXTINF:0,Love- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+#EXTINF:0,Room TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
+#EXTINF:0,Good News 2- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
+#EXTINF:0,China Tibetan TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/hztv/as/live/hztv_4.m3u8
+#EXTINF:0,Kirin fashion- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
+#EXTINF:-1,China Film- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+#EXTINF:-1,China Tibetan TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/hztv/as/live/hztv_4.m3u8
+#EXTINF:-1,Chinese television - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
+#EXTINF:-1,Chinese television- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
+#EXTINF:-1,Chongqing International - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/cqtvi/as/live/cqtvi_4.m3u8
+#EXTINF:-1,Eastern sure- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+#EXTINF:-1,Eastern TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+#EXTINF:-1,Emerald J2 ??J2 - [COLOR blue]tv-msn.com[/COLOR]
+rtsp://2.itvitv.com/tvbj2.aegpohetsvdkfswmn
+#EXTINF:-1,Emerald music - [COLOR blue]tv-msn.com[/COLOR]
+rtsp://2.itvitv.com/tvbm.rynbbscdeaq
+#EXTINF:-1,First Financial- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_4.m3u8
+#EXTINF:-1,FTV MASTV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
+#EXTINF:-1,Good News 2- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
+#EXTINF:-1,Henan Business - [COLOR blue]tv-msn.com[/COLOR]
+http://live.hntv.tv/channels/tvie/video_channel_07/flv:hntv7_apple_200k/live
+#EXTINF:-1,Henan International- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/henantv/as/live/henantv_4.m3u8
+#EXTINF:-1,Henan News - [COLOR blue]tv-msn.com[/COLOR]
+http://live.hntv.tv/channels/tvie/video_channel_06/flv:hntv6_apple_200k/live
+#EXTINF:-1,Hong Kong HMC rtsp- [COLOR blue]tv-msn.com[/COLOR]
+rtsp://2.itvitv.com/hmc.yhrfscfgpocvyuh
+#EXTINF:-1,Hong Kong max rtsp - [COLOR blue]tv-msn.com[/COLOR]
+rtsp://2.itvitv.com/max.cdwdgyfhwgsydr
+#EXTINF:-1,Hong Kong TV- [COLOR blue]tv-msn.com[/COLOR]
+rtmp://live.hkstv.hk.lxdns.com/live/hks
+#EXTINF:-1,Hong Kong tvbmov- [COLOR blue]tv-msn.com[/COLOR]
+rtsp://2.itvitv.com/tvbmov.saqtstfdtwn
+#EXTINF:-1,Hunan International- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8
+#EXTINF:-1,ICN International TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+#EXTINF:-1,Kirin Arts- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
+#EXTINF:-1,Kirin children - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+#EXTINF:-1,Kirin children - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+#EXTINF:-1,Kirin fashion- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
+#EXTINF:-1,Kirin fashion- [COLOR blue]tv-msn.com[/COLOR] 
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
+#EXTINF:-1,Kirin live- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
+#EXTINF:-1,Kunlun theater- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_4.m3u8
+#EXTINF:-1,Love- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+#EXTINF:-1,macro-satellite TV- [COLOR blue]tv-msn.com[/COLOR]
+http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/HasBahCa.m3u8
+#EXTINF:-1,MMS – Huainan TV2 - [COLOR blue]tv-msn.com[/COLOR]
+mms://space.hngd.gov.cn/live2
+#EXTINF:-1,Nantou News- [COLOR blue]tv-msn.com[/COLOR]
+http://27.100.64.99:1935/liveedge/smil:live_1_2_iphone.smil/playlist.m3u8
+#EXTINF:-1,Phoenix Americas- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
+#EXTINF:-1,Phoenix Hong Kong- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:-1,Phoenix IT - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+#EXTINF:-1,QQb - [COLOR blue]tv-msn.com[/COLOR]
+http://zb.v.qq.com:1863/?progid=100003900
+#EXTINF:-1,Room TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
+#EXTINF:-1,Shandong International- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/sdtvi/as/live/sdtvi_4.m3u8
+#EXTINF:-1,Shandong TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd_4.m3u8
+#EXTINF:-1,Shaoxing - [COLOR blue]tv-msn.com[/COLOR]
+http://live.yun.ruanjianhome.com/ggpd/sd/live.m3u8
+#EXTINF:-1,Shaoxing yspd - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://stream.yun.ruanjianhome.com/live/yspd_sd
+#EXTINF:-1,Shenzhen Satellite TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv003.cdnak.ds.kylintv.net/nlds/kylin/sztvhd/as/live/sztvhd_4.m3u8
+#EXTINF:-1,Sichuan International - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/sctv/as/live/sctv_4.m3u8
+#EXTINF:-1,Southern TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8
+#EXTINF:-1,Taichung News- [COLOR blue]tv-msn.com[/COLOR]
+http://27.100.64.99:1935/liveedge/smil:live_1_1_iphone.smil/playlist.m3u8
+#EXTINF:-1,Television Champion- [COLOR blue]tv-msn.com[/COLOR]
+http://27.100.64.99:1935/liveedge/smil:live_2_0_iphone.smil/playlist.m3u8
+#EXTINF:-1,Television Champion- [COLOR blue]tv-msn.com[/COLOR]
+http://27.100.64.99:1935/liveedge/live_2_0_0.stream/playlist.m3u8
+#EXTINF:-1,The Hong Kong and Taiwan- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
+#EXTINF:-1,Tianjin International- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
+#EXTINF:-1,Tianjin TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
+#EXTINF:-1,Tournai station - [COLOR blue]tv-msn.com[/COLOR]
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+#EXTINF:-1,Travel Channel- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8
+#EXTINF:-1,TTV America- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+#EXTINF:-1,United States television - [COLOR blue]tv-msn.com[/COLOR]
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1,Xiamen TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/xmtv/as/live/xmtv_4.m3u8
+#EXTINF:-1,Yangtze River Theatre- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/yangtse/as/live/yangtse_4.m3u8
+#EXTINF:-1,Zhejiang TV- [COLOR blue]tv-msn.com[/COLOR]
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u
+
+#EXTINF:-1,MediaCorp 5 - [COLOR blue]tv-msn.com[/COLOR] 
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch5.smil/playlist.m3u8?
+#EXTINF:-1,MediaCorp 8 - [COLOR blue]tv-msn.com[/COLOR]
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8?
+#EXTINF:-1,SURIA - [COLOR blue]tv-msn.com[/COLOR]
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8?
+#EXTINF:-1,CHANNEL U - [COLOR blue]tv-msn.com[/COLOR]
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8?
+#EXTINF:-1,OKTO - [COLOR blue]tv-msn.com[/COLOR]
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto.smil/playlist.m3u8?
+#EXTINF:-1,VASANTHAM - [COLOR blue]tv-msn.com[/COLOR]
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87vasantham.smil/playlist.m3u8
+#EXTINF:-1,China Film - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+#EXTINF:-1,Kirin live - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
+#EXTINF:-1,Kirin Arts - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
+#EXTINF:-1,Kirin children - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+#EXTINF:-1,Travel Channel - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8
+#EXTINF:-1,Southern TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8
+#EXTINF:-1,Xiamen TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/xmtv/as/live/xmtv_4.m3u8
+#EXTINF:-1,Hunan International - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8
+#EXTINF:-1,Henan International - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/henantv/as/live/henantv_4.m3u8
+#EXTINF:-1,Tianjin International - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
+#EXTINF:-1,Anhui International - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/ahtv/as/live/ahtv_4.m3u8
+#EXTINF:-1,Chongqing International - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/cqtvi/as/live/cqtvi_4.m3u8
+#EXTINF:-1,First Financial - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_4.m3u8
+#EXTINF:-1,Sichuan International - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/sctv/as/live/sctv_4.m3u8
+#EXTINF:-1,Shandong International - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/sdtvi/as/live/sdtvi_4.m3u8
+#EXTINF:-1,Phoenix IT - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+#EXTINF:-1,Phoenix Hong Kong - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:-1,Phoenix Americas - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
+#EXTINF:-1,Chinese television - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
+#EXTINF:-1,Chinese television - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
+#EXTINF:-1,The Hong Kong and Taiwan - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
+#EXTINF:-1,Air classroom - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/clcchannel/as/live/clcchannel_4.m3u8
+#EXTINF:-1,Kirin children - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+#EXTINF:-1,Kirin fashion - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
+#EXTINF:-1,Kunlun theater - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_4.m3u8
+#EXTINF:-1,Yangtze River Theatre - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/yangtse/as/live/yangtse_4.m3u8
+#EXTINF:-1,Tianjin TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
+#EXTINF:-1,Zhejiang TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
+#EXTINF:-1,Shenzhen Satellite TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv003.cdnak.ds.kylintv.net/nlds/kylin/sztvhd/as/live/sztvhd_4.m3u8
+#EXTINF:-1,Shandong TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd_4.m3u8
+#EXTINF:-1,Beijing TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
+#EXTINF:-1,Eastern sure - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+#EXTINF:-1,TTV America - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+#EXTINF:-1,ICN International TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+#EXTINF:-1,Eastern TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+#EXTINF:-1,Love - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+#EXTINF:-1,Room TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
+#EXTINF:-1,China Tibetan TV - [COLOR blue]tv-msn.com[/COLOR]
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/hztv/as/live/hztv_4.m3u8 - See more at: http://www.iptvsharing.com/2015/09/iptv-china-online-tv-streaming.html#sthash.ubYhaf0W.dpuf
+
+#EXTINF:0 group-title="China",TV1- [COLOR blue]google.com[/COLOR]
+rtsp://218.213.227.174:1935/tv/ch1.live
+#EXTINF:0 group-title="China",TV2 - [COLOR blue]google.com[/COLOR]
+rtsp://218.213.227.174:1935/tv/ch2.live
+#EXTINF:0 group-title="China",TV3 - [COLOR blue]google.com[/COLOR]
+rtsp://218.213.227.174:1935/tv/ch3.live
+#EXTINF:0 group-title="China",TV4 - [COLOR blue]google.com[/COLOR]
+rtsp://218.213.227.174:1935/tv/ch4.live
+#EXTINF:0 group-title="China",TV5 - [COLOR blue]google.com[/COLOR]
+rtsp://218.213.227.174:1935/tv/ch5.live
+#EXTINF:0 group-title="China",TV6 - [COLOR blue]google.com[/COLOR]
+rtsp://218.213.227.174:1935/tv/ch6.live
+
+
+#EXTINF:0 group-title="China",CCTV 5 - [COLOR blue]google.com[/COLOR]
+rtmp://123.66.29.8:1935/ss1live/ playpath=cctv5-2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://live.idwebtv.com/country/indo/campur/all.htm
+
+
+
+#EXTINF:0 group-title="korea",----- [COLOR red]KOREA Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:0 group-title="korea",Arirang - [COLOR blue]google.com[/COLOR]
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+
+#EXTINF:0 group-title="korea",KCTV - [COLOR blue]google.com[/COLOR]
+rtsp://media2.kctvjeju.com/live5
+
+#EXTINF:0 group-title="korea",bul jiao - [COLOR blue]google.com[/COLOR]
+http://lm01.everyon.tv:1935/ptv/phd553/hasbahca.m3u8
+#EXTINF:0 group-title="korea",CALLAWAY - [COLOR blue]google.com[/COLOR]
+http://lm01.everyon.tv:1935/ptv/phd762/hasbahca.m3u8
+
+
+#EXTINF:0 group-title="thai",------ [COLOR red]THAI Channels[/COLOR] ------
+rtmpe://89.248.170.199:443/
+
+#EXTINF:0 group-title="thai",Thailand TV - [COLOR blue]google.com[/COLOR]
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=bfee35dc7917423eb68fc3e5edaaae64
+
+#EXTINF:0 group-title="vietnam",--- [COLOR red]Vietnamese Channels[/COLOR] ----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:0 group-title="vietnam",Hai - [COLOR blue]google.com[/COLOR]
+
+http://206.190.150.132:1935/liveStream/hai_1/playlist.m3u8
+
+#EXTINF:0 group-title="vietnam",San Khau - [COLOR blue]google.com[/COLOR]
+
+http://206.190.150.132:1935/liveStream/cailuong_1/playlist.m3u8
+
+#EXTINF:0 group-title="vietnam",Am Thuc - [COLOR blue]google.com[/COLOR]
+
+http://206.190.150.132:1935/liveStream/vnatv_1/playlist.m3u8
+
+#EXTINF:0 group-title="vietnam",Phat Tu Bi - [COLOR blue]google.com[/COLOR]
+
+http://206.190.150.132:1935/liveStream/ptb_1/playlist.m3u8
+
+#EXTINF:0 group-title="vietnam",Vietface TV - [COLOR blue]google.com[/COLOR]
+
+http://206.190.130.141:1935/liveStream/vface_1/playlist.m3u8
+
+#EXTINF:0 group-title="Israel",----- [COLOR red]ISRAEL Channels [/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:0 group-title="Israel",Arutz 1 - [COLOR blue]google.com[/COLOR]
+rtmp://s3ufl.castup.net:1935/990310102-123.flv/_definst_/_definst_
+
+#EXTINF:0 group-title="Israel",Arutz 10 - [COLOR blue]google.com[/COLOR]
+http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 group-title="Israel",Arutz 20 - [COLOR blue]google.com[/COLOR]
+http://ynet_hds_live-f.akamaihd.net/i/ynet_1@153521/master.m3u8
+
+
+#EXTINF:0 group-title="Israel",ISRAEL - 99 Knesset Channel - [COLOR blue]google.com[/COLOR]
+mms://212.235.5.241:80/knessetlive
+
+
+#EXTINF:0 group-title="Israel",ISRAEL - Sport5 - [COLOR blue]google.com[/COLOR]
+rtmp://s5-s.nsacdn.com:1935/sport5_Live1Repeat/Live1_1 swfUrl=http://playern.sport5.co.il/Plugins/RTMPPlugin.swf pageUrl=http://playern.sport5.co.il/Player.aspx?clipId=Live1&Type=live
+
+
+
+#EXTINF:0 group-title="Camera",----- [COLOR red]Live Camera Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:0 group-title="Camera", Camera 1 - [COLOR blue]google.com[/COLOR]
+rtsp://84.54.158.13:554/live/ch00_0
+#EXTINF:0 group-title="Camera", Camera Sea - [COLOR blue]google.com[/COLOR]
+rtsp://84.54.158.18:554/live/ch00_0
+#EXTINF:0 group-title="Camera", Kiten - [COLOR blue]google.com[/COLOR]
+rtsp://84.54.158.11:554/live/ch00_0
+#EXTINF:0 group-title="Camera",Kiten - [COLOR blue]google.com[/COLOR]
+rtsp://k1ten:k1ten@84.54.158.14:554/live/ch00_0
+#EXTINF:0 group-title="Camera",Karlowo - [COLOR blue]google.com[/COLOR]
+rtsp://85.255.175.241:554/h264
+#EXTINF:0 group-title="Camera",Karlowo - [COLOR blue]google.com[/COLOR]
+rtsp://85.255.175.244:554/h264
+
+
+#EXTINF:0 group-title="Camera",In the Redwoods mms  - [COLOR blue]google.com[/COLOR]
+mmsh://live.camstreams.com/csRacheed?MSWMExt=.asf
+
+#EXTINF:0 group-title="Camera",Niagara waterfall mms  - [COLOR blue]google.com[/COLOR]
+mms://webcams.niagarafallshotels.com/CNH-Stream2
+#EXTINF:0 group-title="Camera",Scheveningen surf webcam  - [COLOR blue]google.com[/COLOR]
+rtsp://b1.dnsdojo.com:1935/live/sys3.stream
+
+
+
+
+#EXTINF:0 group-title="russian",----- [COLOR red]Russian Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+
+#EXTINF:0 group-title="russian",LiFE News - [COLOR blue]myvideo.az[/COLOR]
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:0 group-title="russian",LiFE News- [COLOR blue]myvideo.az[/COLOR] 
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:0 group-title="russian",5Kanal - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/5
+
+#EXTINF:0 group-title="russian",Kultur - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/kultura
+#EXTINF:0 group-title="russian",LiFE News - [COLOR blue]myvideo.az[/COLOR]
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:0 group-title="russian",LiFE News- [COLOR blue]myvideo.az[/COLOR] 
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:0 group-title="russian",Magazin - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/magazin
+
+#EXTINF:0 group-title="russian",Mir - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mir
+#EXTINF:0 group-title="russian",Mir24 - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mir24
+
+#EXTINF:0 group-title="russian",Ntv - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
+#EXTINF:0 group-title="russian",Ocean - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ocean
+#EXTINF:0 group-title="russian",Otr - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/otr
+#EXTINF:0 group-title="russian",Perez - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/perez
+#EXTINF:0 group-title="russian",PerezAir - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/perezair
+#EXTINF:0 group-title="russian",Piatnica - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mtv
+#EXTINF:0 group-title="russian",Piatnica2 - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
+
+#EXTINF:0 group-title="russian",Ren - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rentv
+#EXTINF:0 group-title="russian",Rusya1 - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rus1air
+#EXTINF:0 group-title="russian",Rusya2 - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport
+#EXTINF:0 group-title="russian",Rusya24 - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ortv
+#EXTINF:0 group-title="russian",Rusya24 - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rus24
+#EXTINF:0 group-title="russian",Rzd - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rzd
+#EXTINF:0 group-title="russian",SPACE - [COLOR blue]myvideo.az[/COLOR]
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/space/space/space.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:0 group-title="russian",Tnt - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tnt
+#EXTINF:0 group-title="russian",TntAir - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tntair
+#EXTINF:0 group-title="russian",Tv Centre - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tvcenter
+#EXTINF:0 group-title="russian",Tv3 - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tv3
+#EXTINF:0 group-title="russian",TvK - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tvk
+#EXTINF:0 group-title="russian",TvSale - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tvsale
+#EXTINF:0 group-title="russian",VH1 European - [COLOR blue]myvideo.az[/COLOR]
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/vh1/vh1/vh1.m3u8?mfamwuUL6IpOXDJ8WwxJ
+
+#EXTINF:0 group-title="russian",Yenisey - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/enisei
+#EXTINF:0 group-title="russian",Zvezda - [COLOR blue]myvideo.az[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/zvezda
+
+
+
+#EXTINF:0 group-title="russian",Europa Plus TV - [COLOR blue]novotelecom.ru[/COLOR]
+http://europaplus.cdnvideo.ru/europaplus-live/mp4:eptv_main.sdp/playlist.m3u8
+#EXTINF:0 group-title="russian",Fresh TV - [COLOR blue]novotelecom.ru[/COLOR]
+http://80.93.53.88:1935/live/channel_4/playlist.m3u8
+#EXTINF:0 group-title="russian",invatv - [COLOR blue]novotelecom.ru[/COLOR]
+http://invatv.cdnvideo.ru/invatv-live/invatv.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="russian",ktklive - [COLOR blue]novotelecom.ru[/COLOR]
+http://195.49.213.56/ktklive/live.hq/playlist.m3u8
+#EXTINF:0 group-title="russian",LifeNews - [COLOR blue]novotelecom.ru[/COLOR]
+http://tv.life.ru/lifetv/480p/index.m3u8
+#EXTINF:0 group-title="russian",maidanhires - [COLOR blue]novotelecom.ru[/COLOR]
+http://tmt.cdnvideo.ru/paramlive/maidanhires/playlist.m3u8
+
+
+
+#EXTINF:0,24 Kitchen - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.17:1234
+#EXTINF:0,24 Techno - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/239.255.110.47:30000
+#EXTINF:0,Agro TV - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.112:5000
+#EXTINF:0,Animal Planet (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.3.7:1234
+#EXTINF:0,AXN - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.163:5000
+#EXTINF:0,AXN Black - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.162:5000
+#EXTINF:0,AXN White - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.161:5000
+#EXTINF:0,beIN Sports 1 (FR) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/239.255.246.60:30000
+#EXTINF:0,beIN Sports 2 (FR) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/239.255.246.56:30000
+#EXTINF:0,beIN Sports 3 (FR) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/239.255.246.57:30000
+#EXTINF:0,BG Music Channel - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.87:5000
+#EXTINF:0,BNT 1 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.71:5000
+#EXTINF:0,BNT 2 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.73:5000
+#EXTINF:0,BNT World - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.72:5000
+#EXTINF:0,BOX TV - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/239.255.247.7:30000
+#EXTINF:0,bTV 16:9 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.21:5000
+#EXTINF:0,bTV 4:3 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.49:1234
+#EXTINF:0,bTV Action - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.2:1234
+#EXTINF:0,bTV Comedy - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.20:1234
+#EXTINF:0,bTV Cinema - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.21:1234
+#EXTINF:24,bTV Lady - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.24:1234
+#EXTINF:0,CN (EN)- [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.36:1234
+#EXTINF:0,Cinemax - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.4.7:1234
+#EXTINF:0,Cinemax 2 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.4.8:1234
+#EXTINF:0,Comedy Central Extra (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.26:1234
+#EXTINF:0,Diema - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.29:1234
+#EXTINF:0,Diema Family - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.1:1234
+#EXTINF:0,Discovery (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.1.20:1234
+#EXTINF:0,EK - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.3.35:1234
+#EXTINF:0,EKids - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.3.36:1234
+#EXTINF:0,Eurosport - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.11:1234
+#EXTINF:0,Eurosport 2 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.10:1234
+#EXTINF:0,F+ - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/233.2.4.20:5000
+#EXTINF:0,Fen Folk - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.9:1234
+#EXTINF:0,Fen TV - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.10:1234
+#EXTINF:0,Fiesta TV - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.50:1234
+#EXTINF:0,Filmbox Extra - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.14:1234
+#EXTINF:0,Fine Living (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/239.255.247.61:30000
+#EXTINF:0,Fishing and Hunting - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.1.15:1234
+#EXTINF:0,Folklor TV - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.7:1234
+#EXTINF:0,FOX - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.32:1234
+#EXTINF:0,FOX Crime - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.5:1234
+#EXTINF:0,FOX Life - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.6:1234
+#EXTINF:0,HBO (orig.) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.4.5:1234
+#EXTINF:0,HBO Comedy (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.4.6:1234
+#EXTINF:0,History (multi, SRB) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/225.0.2.6:20000
+#EXTINF:0,Kanal 4 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/239.255.247.69:30000
+#EXTINF:0,Kinonova - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.34:5000
+#EXTINF:0,Moviestar - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.153:5000
+#EXTINF:0,NatGeo WILD (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.45:5000
+#EXTINF:0,Nat Geo (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.31:1234
+#EXTINF:0,NEWS7 4:3 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.3:1234
+#EXTINF:0,NEWS7 16:9 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.53:5000
+#EXTINF:0,Nickelodeon - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.27:1234
+#EXTINF:0,NOVA - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.26:1234
+#EXTINF:0,Nova Sport - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.18:1234
+#EXTINF:0,Ring - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.4:1234
+#EXTINF:0,Super7 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.23:1234
+#EXTINF:0,The Voice - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.28:1234
+
+#EXTINF:0,TV1000 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.19:1234
+#EXTINF:0,TV7 4:3 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.1.2.22:1234
+#EXTINF:0,TV7 16:9 - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.51:5000
+#EXTINF:0,TVT - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/224.156.69.78:5000
+#EXTINF:0,Viasat Explore - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.16:1234
+#EXTINF:0,Viasat History (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.17:1234
+#EXTINF:0,Viasat Nature (EN) - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.2.18:1234
+#EXTINF:0,VTK - [COLOR blue]google.com[/COLOR]
+http://lag2.tv-mobile.org:22637/udp/231.2.3.9:1234
+
+
+
+#EXTINF:0 group-title="Honduras",----- [COLOR red]Honduras Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+#EXTINF:-1 group-title="Honduras",Canal 10 - [COLOR blue]playerstreaming.net[/COLOR]
+rtmp://hd.worldkast.com:1935/8378/ playpath=83781 swfUrl=http://www.honduras504.com/ayv/player.swf live=1 pageUrl=http://www.honduras504.com/tv/10/TEN
+
+
+#EXTINF:-1 group-title="Honduras",Hondured Canal 13 - [COLOR blue]playerstreaming.net[/COLOR]
+rtmp://173.236.71.62/hondured playpath=hrtv.sdp swfUrl=http://www.honduras504.com/ayv/player.swf live=1 pageUrl=http://www.honduras504.com/tv/13/Hondured
+
+#EXTINF:-1 group-title="Honduras",Teleport - [COLOR blue]playerstreaming.net[/COLOR]
+rtmp://201.190.37.10:1935/live playpath=live swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf
+#EXTINF:-1 group-title="Honduras",Globo TV - [COLOR blue]playerstreaming.net[/COLOR]
+rtmp://m.streamfull.com.ar:8979/live/ playpath=globotv swfUrl=http://www.honduras504.com/ayv/player.swf live=1 pageUrl=http://www.honduras504.com/tv/2/GloboTv
+#EXTINF:-1 group-title="Honduras",Cholusat Sur - [COLOR blue]playerstreaming.net[/COLOR]
+rtmp://live.audiotvserver.com:1935/livemedia playpath=cholusat swfUrl=http://www.honduras504.com/ayv/player.swf live=1 pageUrl=http://www.honduras504.com/tv/36/CholusatSur
+
+
+#EXTINF:0 group-title="Honduras",BELLEAMIE TV - [COLOR blue]google.com[/COLOR]
+http://92.60.234.98:8081/
+
+
+
+
+#EXTINF:0 group-title="Adult",----- [COLOR red]18+ Channels[/COLOR] -----
+rtmpe://89.248.170.199:443/
+
+
+#EXTINF:-1,BABES SPORTING - [COLOR blue]google.com[/COLOR]
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,HOT SHOTS - [COLOR blue]google.com[/COLOR]
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+
+
+#EXTINF:-1,BRAZZERS - [COLOR blue]google.com[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1,OLALA - [COLOR blue]google.com[/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+
+
+#EXTINF:-1,new asia - [COLOR blue]google.com[/COLOR]
+http://smog-03.tnaflix.com/5d/5dec5edf5fb3033ab750/Young_Asian_Nympho_Squirting_Orgasm-1080p.mp4?speed=1000000&hd=1
+
+#EXTINF:-1,*****RI 1 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/782.ts?tocken1234
+#EXTINF:-1,*****RI 2 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/812.ts?tocken1234
+
+#EXTINF:-1,*****RI 4 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/783.ts?tocken1234
+
+#EXTINF:-1,*****RI 7 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/773.ts?tocken1234
+#EXTINF:-1,*****RI 8 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/771.ts?tocken1234
+#EXTINF:-1,*****RI 9 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/770.ts?tocken1234
+#EXTINF:-1,*****RI 10 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/906.ts?tocken1234
+#EXTINF:-1,*****RI 11 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/907.ts?tocken1234
+#EXTINF:-1,*****RI 12 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1197.ts?tocken1234
+#EXTINF:-1,*****RI 13 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1198.ts?tocken1234
+#EXTINF:-1,*****RI 14 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1199.ts?tocken1234
+#EXTINF:-1,*****RI 15 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1201.ts?tocken1234
+#EXTINF:-1,*****RI 16 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1202.ts?tocken1234
+#EXTINF:-1,*****RI 17 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1203.ts?tocken1234
+#EXTINF:-1,*****RI 18 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1204.ts?tocken1234
+#EXTINF:-1,*****RI 19 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1205.ts?tocken1234
+#EXTINF:-1,*****RI 20 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1206.ts?tocken1234
+#EXTINF:-1,*****RI 21 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1345.ts?tocken1234
+#EXTINF:-1,*****RI 22 - [COLOR blue]google.com[/COLOR]
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1346.ts?tocken1234
+
+#EXTINF: -1, PASSI XXX - [COLOR blue]google.com[/COLOR]
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+
+
+
+
+#EXTINF:0 group-title="Adult",Private - [COLOR blue]google.com[/COLOR]
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+
+
+
+#EXTINF:0 group-title="Adult",Claro Adulto  - [COLOR blue]google.com[/COLOR]
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+
+
+
+#EXTINF:0 group-title="Adult",JASMIN - [COLOR blue]google.com[/COLOR] 
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream playpath=sd.jasminchannel.stream swfUrl=http://flash.dditscdn.com/jsm2/3316/memberapplet/wowza/memberapplet.swf live=1 pageUrl=http://jasmin.com/pt/girl
+
+
+#EXTINF:0 group-title="Adult",Egoist  - [COLOR blue]google.com[/COLOR]
+http://s2.edem.tv/iptv/TVWR32RK25QRUC/526/index.m3u8
+
+
+
+
+#EXTINF:-1,XXX China - [COLOR blue]google.com[/COLOR]
+http://95.211.163.54:1935/tv/3310/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="Adult",Asian X - [COLOR blue]google.com[/COLOR]
+
+http://95.211.163.54:1935/tv/3310/playlist.m3u8
+
+#EXTINF:0 group-title="Adult",Japanese X - [COLOR blue]google.com[/COLOR]
+
+#EXTINF:0 group-title="Adult",DLDVS 1 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/30000/30931/30931.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 2 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-78.cdn13.com/25000/25253/25253.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 3 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-78.cdn13.com/25000/25253/25253.flv
+
+
+#EXTINF:0 group-title="Adult",DLDVS 4 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-200.cdn13.com/25000/25385/25385.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 5 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-77.cdn13.com/25000/25543/25543.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 6 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-166.cdn13.com/25000/25571/25571.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 7 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-79.cdn13.com/29000/29224/29224.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 8 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-69.cdn13.com/28000/28880/28880.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 9 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-201.cdn13.com/29000/29132/29132.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 10 - [COLOR blue]google.com[/COLOR] 
+http://a7-60.5-201.cdn13.com/28000/28944/28944.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 11 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-201.cdn13.com/29000/29091/29091.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 12 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-69.cdn13.com/28000/28927/28927.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 13 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-166.cdn13.com/28000/28905/28905.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 14 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/28000/28978/28978.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 15 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-78.cdn13.com/29000/29139/29139.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 16 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-167.cdn13.com/29000/29018/29018.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 17 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-166.cdn13.com/29000/29090/29090.flv
+
+
+#EXTINF:0 group-title="Adult",DLDVS 18 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-201.cdn13.com/29000/29128/29128.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 19 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/28000/28999/28999.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 20 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-79.cdn13.com/28000/28941/28941.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 21 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-200.cdn13.com/29000/29229/29229.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 22 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-167.cdn13.com/29000/29220/29220.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 23 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-78.cdn13.com/29000/29181/29181.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 24 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-69.cdn13.com/28000/28974/28974.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 25 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/30000/30947/30947.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 26 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/30000/30930/30930.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 27 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/30000/30944/30944.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 28 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/30000/30938/30938.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 29 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/30000/30920/30920.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 30 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-77.cdn13.com/30000/30933/30933.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 31 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-77.cdn13.com/30000/30919/30919.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 32 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/30000/30932/30932.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 33 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-201.cdn13.com/30000/30939/30939.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 34 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-201.cdn13.com/30000/30918/30918.flv
+
+ 
+
+#EXTINF:0 group-title="Adult",DLDVS 35 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/30000/30930/30930.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 36 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-69.cdn13.com/28000/28974/28974.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 37 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-194.cdn13.com/28000/28978/28978.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 38 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-77.cdn13.com/25000/25543/25543.flv
+
+#EXTINF:0 group-title="Adult",DLDVS 39 - [COLOR blue]google.com[/COLOR]
+http://a7-60.5-201.cdn13.com/30000/30939/30939.flv
+
+
+ 
